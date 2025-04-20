@@ -1,4 +1,4 @@
-Capítulo XII: El Legado del Loto de Bronce
+Capítulo IIi: El Legado del Loto de Bronce
 
 “Entre el Abismo y el Pleroma, buscamos la Harmonía que sostiene el Prisma. Somos cartógrafos de Velos, aritmánticos del Logos, jardineros del loto que florece en las aguas oscuras del cosmos.” —Extracto del Código del Loto
 
