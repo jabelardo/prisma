@@ -42,7 +42,7 @@ La siguiente tabla muestra los rangos de aciertos necesarios para cada resultado
 | Dificultad | Falla Marginal | Éxito Parcial | Éxito Regular | Éxito Excepcional |
 | --- | --- | --- | --- | --- |
 | 1 | — | — | 1 | 2+ |
-| 2 | 1 | — | 2 | 3+ |
+| 2 | — | 1 | 2 | 3+ |
 | 3 | 1 | 2 | 3-4 | 5+ |
 | 4 | 1 | 2-3 | 4-5 | 6+ |
 | 5 | 1-2 | 3-4 | 5-7 | 8+ |
