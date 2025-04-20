@@ -1,4 +1,4 @@
-# Capítulo XIII: Mecánicas del Juego
+# Capítulo I: Mecánicas del Juego
 
 En *Prisma*, cada decisión es un instante donde todo está en juego. Este sistema te sumerge en historias vibrantes, donde tus personajes enfrentan desafíos que los llevan al límite. Con dados d10, atributos dinámicos y un toque de *Resonancia* narrativa, *Prisma* mezcla estrategia, azar y creatividad. Ya sea esquivando trampas, descifrando códigos o sellando pactos, estas reglas te mantienen en el corazón de la acción.
 
@@ -238,73 +238,3 @@ Con *Tecnología 4* (*Ciberseguridad*, *Maestría*), hackear un servidor suma 2 
 ---
 
 En *Prisma*, cada tirada es un fotograma en tu película. Con estas reglas, tú y tus compañeros darán vida a héroes, villanos y momentos que resonarán mucho después de que los dados se detengan.
-
----
-
-### Detalles de los cambios
-
-1. **Tabla ajustada**:
-
-   - **Columna *Falla Normal* eliminada**: La tabla ahora solo incluye *Falla Marginal*, *Éxito Parcial*, *Éxito Regular*, y *Éxito Excepcional*.
-   - **Columna *Éxito Excepcional* simplificada**: Quité las fórmulas (ejemplo: “2+ (1.5×1=1.5→2)”) y dejé solo los números (ejemplo: “2+”).
-   - **Notas actualizadas**: Añadí “*Falla Normal* ocurre con 0 aciertos, y *Falla Crítica* con 0 aciertos usando *Esfuerzo*” para aclarar su exclusión de la tabla.
-   - Rangos verificados:
-     - *Dificultad* 1: *Falla Marginal* = —, *Éxito Parcial* = —, *Éxito Regular* = 1, *Éxito Excepcional* = 2+.
-     - *Dificultad* 2: *Falla Marginal* = 1, *Éxito Parcial* = —, *Éxito Regular* = 2, *Éxito Excepcional* = 3+.
-     - *Dificultad* 3: *Falla Marginal* = 1, *Éxito Parcial* = 2, *Éxito Regular* = 3-4, *Éxito Excepcional* = 5+.
-     - *Dificultad* 4: *Falla Marginal* = 1, *Éxito Parcial* = 2-3, *Éxito Regular* = 4-5, *Éxito Excepcional* = 6+.
-     - *Dificultad* 5: *Falla Marginal* = 1-2, *Éxito Parcial* = 3-4, *Éxito Regular* = 5-7, *Éxito Excepcional* = 8+.
-
-2. **Integración**:
-
-   - La tabla sigue en *Resolución de Tareas* después de *Tipos de Resultados*.
-   - No modifiqué los ejemplos, descripciones, ni otras secciones, ya que están alineados con las reglas actuales.
-
-3. **Estilo narrativo**:
-
-   - Mantuve el tono cinemático, narrativo y sobrio, con frases visuales (ejemplo: “el plan que pende de un hilo”).
-   - La tabla conserva el título evocador (*Del Fracaso a la Gloria*) y un formato claro, alineado con *Fate Core* y *Blades in the Dark*.
-   - Nombres cinemáticos (*Zoe Navarro*, *Ethan Cole*, etc.) y contextos variados (físico, técnico, médico, social) sin cambios.
-
-4. **Restricciones**:
-
-   - Sistema genérico para *Prisma*, sin *Hermandad*, *Código del Loto*, *Prisma* (salvo como nombre del juego), *Velos*, *Archai*, *Aitiata*, *Abismo*, *Kenoma*, *Pleroma*, *Arquitectos*, *Noús*, *Nomothetes*, *Kenolatreis*.
-   - Sin Freya (`3b6edc88-050f-4c25-8431-da73d0a03e54`).
-   - Sin caos ni términos místicos.
-   - No se requiere coherencia con *Capítulo X* o *Capítulo XII*.
-
----
-
-### Feedback solicitado
-
-¡La tabla *Del Fracaso a la Gloria* ahora es más limpia y directa! Por favor, dime cómo pulirla:
-
-1. **Tabla**:
-
-   - ¿La eliminación de *Falla Normal* y la simplificación de *Éxito Excepcional* son correctas?
-   - ¿Los rangos de aciertos están claros? ¿Ajustar algún valor o formato?
-   - ¿Las notas son suficientes o añadir más aclaraciones (ejemplo: más sobre *Falla Crítica*)?
-
-2. **Tipos de Resultados**:
-
-   - ¿La integración de la tabla con *Tipos de Resultados* es clara? ¿Ajustar el texto introductorio?
-   - ¿Mantener las definiciones actuales (*Falla Marginal*, *Éxito Parcial*, etc.) o ajustar algo?
-
-3. **Ejemplos**:
-
-   - ¿Los ejemplos (*Zoe Navarro*, *Ethan Cole*, etc.) siguen funcionando bien? ¿Añadir uno que resalte *Falla Normal* o *Falla Crítica* con la tabla?
-   - ¿Los nombres cinemáticos y contextos están bien? ¿Cambiar o añadir un ejemplo (ejemplo: *Pilotar*)?
-
-4. **Estilo narrativo**:
-
-   - ¿El tono cinemático está equilibrado? ¿Más *Fate* (colaborativo), *Blades* (tenso), o algo diferente?
-   - ¿La redacción de la tabla y el capítulo es clara y evocadora?
-
-5. **Próximos pasos**:
-
-   - ¿Confirmar este capítulo o hacer más ajustes en la tabla?
-   - ¿Volver al *Capítulo XII* para quitar *La Teúrgia del Loto* o mantenerlo?
-   - ¿Escribir el capítulo de la orden antigua (*Orphikoi*, etc.)?
-   - ¿Crear una viñeta narrativa (Zoe Navarro en acción) o un visual?
-
-¡Dime cómo seguimos dando forma a esta épica de *Prisma*! 🎥
