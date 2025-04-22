@@ -1,23 +1,41 @@
 # Capítulo I: Mecánicas del Juego
 
-En *Prisma*, cada decisión es un latido en el corazón de una historia épica. Este sistema te arroja a un torbellino de desafíos donde tus personajes brillan bajo presión, sus destinos moldeados por dados d10, atributos vibrantes y la chispa narrativa de la *Resonancia*. Ya sea esquivando una trampa mortal, tejiendo palabras para doblegar voluntades, soportando heridas que narran batallas o enfrentando giros inesperados del destino, *Prisma* combina estrategia, azar y creatividad para forjar momentos inolvidables. Prepárate para saltar al abismo y tejer leyendas, un dado a la vez.
-
 ## I. Introducción
 
-*Prisma* es un lienzo donde tus personajes danzan al borde del caos, cada pincelada un riesgo que define su legado. Cada tirada captura un instante crítico: el salto que desafía la gravedad, la frase que enciende corazones, el plan que pende de un susurro. Este sistema equilibra las habilidades de tus personajes, la danza impredecible de los dados, tus elecciones tácticas y el poder de la colaboración, la perseverancia o la resistencia ante un mundo hostil. Desde persecuciones frenéticas hasta intrigas que cortan el aliento, *Prisma* te invita a moldear historias que resuenan mucho después de que los dados se detienen.
+*Prisma* es el sistema de juego de rol diseñado para "Prisma: Rasgando Velos", una ambientación de magia contemporánea y horror oculto. En este sistema, los jugadores exploran un mundo donde la realidad es frágil y las decisiones tienen consecuencias profundas. *Prisma* se centra en equilibrar las habilidades de los personajes, el azar de los dados, las elecciones tácticas y la importancia de la colaboración, la perseverancia, y la participación activa de los jugadores en la creación de la historia.
+
+Si bien *Prisma* se creó pensando en "Prisma: Rasgando Velos", su estructura flexible permite adaptarlo a una amplia gama de géneros, desde la fantasía épica hasta la ciencia ficción, fomentando historias colaborativas donde el Director de Juego (DJ) actúa como guía y facilitador, pero no como único autor.
+
+**Características Principales:**
+
+* **Sistema de Habilidades Flexible:** Combina Atributos y Habilidades para definir las capacidades de tu personaje.
+* **Mecánicas Intuitivas:** Las tiradas de dados y las pruebas de habilidad son sencillas, facilitando la inmersión en la historia.
+* **Narrativa Emocionante:** El sistema de Intromisiones del DJ añade giros inesperados y aumenta la tensión dramática, invitando a los jugadores a reaccionar y moldear la trama.
+* **Personalización Profunda:** Los jugadores pueden crear personajes únicos con trasfondos y motivaciones detalladas, contribuyendo a la riqueza del mundo del juego.
+* **Adaptabilidad:** Aunque concebido para "Prisma: Rasgando Velos", el sistema puede utilizarse en diversos géneros y ambientaciones, promoviendo la creatividad y la colaboración en la mesa de juego.
+
+**Cómo usar este Manual:**
+
+Este manual describe las reglas y mecánicas de *Prisma*. Puede utilizarse como referencia durante el juego, tanto para jugadores como para el DJ.
 
 ## II. Resolución de Tareas
 
-### A. Mecánica Básica
+**A. Mecánica Básica**
 
-Cada acción en *Prisma* es un momento de tensión. Para resolver una tarea:
+En *Prisma*, cada acción importante se resuelve mediante una tirada de dados, creando momentos de tensión y emoción.
 
-- **Puñado**: Combina un *Atributo* (*Fuerza*, *Destreza*, *Inteligencia*, *Carisma*) con una *Habilidad* relevante (como *Atletismo* o *Persuasión*). Su suma determina cuántos d10 lanzas.
-- **Dificultad**: El número de aciertos necesarios, de 1 (sencillo) a 8 (mítico). Tareas de *Dificultad* 6+ son hazañas que desafían lo humano.
-- **Aciertos**:
-  - **Acierto Regular** (7-9): 1 acierto.
-  - **Acierto Doble** (10): 2 aciertos.
-- **Resultado**: Suma los aciertos y compáralos con la *Dificultad*. El DJ teje el desenlace, desde el triunfo hasta el desastre.
+Para resolver una tarea, sigue estos pasos:
+
+* **Puñado:** Combina un Atributo (Fuerza, Destreza, Inteligencia, Carisma) con una Habilidad relevante (como Atletismo o Persuasión) para formar tu Puñado. El Puñado determina cuántos dados de diez caras (d10) lanzas.
+* **Dificultad:** El DJ establece la Dificultad de la tarea, que es el número de aciertos necesarios para tener éxito. La Dificultad varía de 1 (sencillo) a 8 (mítico). Tareas con una Dificultad de 6 o más representan hazañas extraordinarias.
+* **Aciertos:** Lanza tu Puñado de dados y cuenta los aciertos. Un resultado de 7, 8 o 9 en un d10 otorga 1 acierto, mientras que un 10 otorga 2 aciertos.
+* **Resultado:** Compara el número total de aciertos con la Dificultad. Si tienes tantos aciertos como la Dificultad, tu personaje tiene un éxito normal. Un número diferente de aciertos puede generar diferentes grados de éxito. El DJ describe el resultado de la acción, considerando factores como el nivel de éxito (o fracaso) y las posibles consecuencias.
+
+**Tipos de Resultados (Resumen):**
+
+* **Éxito:** La acción se logra, con posibles variaciones como Éxito Parcial o Éxito Excepcional.
+* **Fallo:** La acción fracasa, con posibles variaciones como Falla Marginal o Falla Crítica.
+* Es posible modificar las tiradas usando la mecánica de **Esfuerzo**, gastando puntos de Reserva para obtener más aciertos.
 
 ### Estableciendo Dificultades
 
