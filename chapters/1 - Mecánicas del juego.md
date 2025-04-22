@@ -1,23 +1,23 @@
-# Capítulo I: Mecánicas del Juego
+### Capítulo II: Mecánicas del Juego
 
-En *Prisma*, cada decisión es un latido en el corazón de una historia épica. Este sistema te arroja a un torbellino de desafíos donde tus personajes brillan bajo presión, sus destinos moldeados por dados d10, atributos vibrantes y la chispa narrativa de la *Resonancia*. Ya sea esquivando una trampa mortal, tejiendo palabras para doblegar voluntades, soportando heridas que narran batallas o enfrentando giros inesperados del destino, *Prisma* combina estrategia, azar y creatividad para forjar momentos inolvidables. Prepárate para saltar al abismo y tejer leyendas, un dado a la vez.
+En *Prisma*, cada decisión es un latido en el corazón de una historia épica. Este sistema te sumerge en un torbellino de desafíos donde tus personajes brillan bajo presión, moldeando sus destinos con dados d10, Atributos vibrantes y la chispa narrativa de la *Resonancia*. Ya sea esquivando una trampa mortal o tejiendo palabras para doblegar voluntades, soportando heridas que narran batallas o enfrentando giros inesperados del destino, *Prisma* combina estrategia, azar y creatividad para forjar momentos inolvidables. Prepárate para saltar al abismo y tejer leyendas, un dado a la vez.
 
 ## I. Introducción
 
-*Prisma* es un lienzo donde tus personajes danzan al borde del caos, cada pincelada un riesgo que define su legado. Cada tirada captura un instante crítico: el salto que desafía la gravedad, la frase que enciende corazones, el plan que pende de un susurro. Este sistema equilibra las habilidades de tus personajes, la danza impredecible de los dados, tus elecciones tácticas y el poder de la colaboración, la perseverancia o la resistencia ante un mundo hostil. Desde persecuciones frenéticas hasta intrigas que cortan el aliento, *Prisma* te invita a moldear historias que resuenan mucho después de que los dados se detienen.
+*Prisma* es un lienzo donde tus personajes danzan al borde del caos, cada pincelada un riesgo que define su legado. Cada tirada captura un instante crítico: el salto que desafía la gravedad, la frase que enciende corazones, el plan que pende de un susurro. Este sistema equilibra las Habilidades de tus personajes, la danza impredecible de los dados, tus elecciones tácticas y el poder de la colaboración, la perseverancia o la resistencia ante un mundo hostil. Desde persecuciones frenéticas hasta intrigas que cortan el aliento, *Prisma* te invita a moldear historias que resuenan mucho después de que los dados se detienen.
 
 ## II. Resolución de Tareas
 
 ### A. Mecánica Básica
 
-Cada acción en *Prisma* es un momento de tensión. Para resolver una tarea:
+Cada acción en *Prisma* es un momento de tensión. Para resolver una Tarea:
 
-- **Puñado**: Combina un *Atributo* (*Fuerza*, *Destreza*, *Inteligencia*, *Carisma*) con una *Habilidad* relevante (como *Atletismo* o *Persuasión*). Su suma determina cuántos d10 lanzas.
-- **Dificultad**: El número de aciertos necesarios, de 1 (sencillo) a 8 (mítico). Tareas de *Dificultad* 6+ son hazañas que desafían lo humano.
+- **Puñado**: Combina un Atributo (*Fuerza*, *Destreza*, *Inteligencia*, *Carisma*) con una Habilidad relevante (como *Atletismo* o *Persuasión*). Su suma determina cuántos dados d10 lanzas.
+- **Dificultad**: El número de Aciertos necesarios, de 1 (sencillo) a 8 (mítico). Tareas de Dificultad 6+ son hazañas que desafían lo humano.
 - **Aciertos**:
-  - **Acierto Regular** (7-9): 1 acierto.
-  - **Acierto Doble** (10): 2 aciertos.
-- **Resultado**: Suma los aciertos y compáralos con la *Dificultad*. El DJ teje el desenlace, desde el triunfo hasta el desastre.
+  - **Acierto Regular** (7-9): 1 Acierto.
+  - **Acierto Doble** (10): 2 Aciertos.
+- **Resultado**: Suma los Aciertos y compáralos con la Dificultad. El DJ teje el desenlace, desde el triunfo hasta el desastre.
 
 ### Estableciendo Dificultades
 
@@ -476,23 +476,23 @@ Recompensa *Resonancia* por aceptar *Intromisiones* o actuar según metas. Es un
 - **Dificultad**: Número de aciertos requeridos para superar una tarea o desafío.
 - **DJ**: Director de Juego. Persona que narra, arbitra y guía la historia.
 - **Downtime**: Modalidad de juego para descanso, recuperación o planificación a largo plazo.
-- **Éxito Excepcional**: Resultado que supera 1.5 veces la *Dificultad*, otorgando recompensas adicionales.
-- **Éxito Parcial**: Resultado que cumple al menos la mitad de la *Dificultad*, pero no la supera, con un costo.
-- **Éxito Regular**: Resultado que iguala o supera la *Dificultad*, logrando el objetivo sin complicaciones.
-- **Esfuerzo**: Puntos de *Reserva* arriesgados para sumar aciertos adicionales en una tirada.
-- **Falla Crítica**: Fracaso total al usar *Esfuerzo* sin aciertos, con consecuencias graves.
-- **Falla Marginal**: Fracaso con aciertos menores a la mitad de la *Dificultad*, otorga *Resonancia* o *xp*.
-- **Falla Normal**: Fracaso sin aciertos, permite reintentos en tareas simples.
+- **Éxito Excepcional**: Resultado que supera 1.5 veces la Dificultad, otorgando recompensas adicionales.
+- **Éxito Parcial**: Resultado que cumple al menos la mitad de la Dificultad, pero no la supera, con un costo.
+- **Éxito Regular**: Resultado que iguala o supera la Dificultad, logrando el objetivo sin complicaciones.
+- **Esfuerzo**: Puntos de Reserva arriesgados para sumar Aciertos adicionales en una tirada.
+- **Falla Crítica**: Fracaso total al usar Esfuerzo sin Aciertos, con consecuencias graves.
+- **Falla Marginal**: Fracaso con Aciertos menores a la mitad de la Dificultad, otorga Resonancia o XP.
+- **Falla Normal**: Fracaso sin Aciertos, permite reintentos en tareas simples.
 - **Herida Crítica**: Lesión grave que pone en peligro la vida, requiere atención urgente.
 - **Herida Seria**: Lesión importante que limita hasta ser tratada.
 - **Herida Superficial**: Lesión menor que se resuelve con descanso.
 - **Habilidad**: Conocimiento o destreza específica del personaje (ejemplo: *Atletismo*, *Persuasión*).
 - **Intromisión del DJ**: Evento narrativo inesperado para complicar la historia.
 - **Modalidad**: Ritmo narrativo del juego (*Acción y Aventura*, *Drama e Investigación*, *Downtime*).
-- **Puñado**: Combinación de *Atributo* + *Habilidad* para resolver una tarea.
-- **Reserva**: Puntos asociados a cada *Atributo*, usados para *Esfuerzo* y recuperados con descanso.
-- **Resonancia**: Recurso narrativo para influir en la historia, mejorar tiradas o rechazar *Intromisiones*.
+- **Puñado**: Combinación de Atributo + Habilidad para resolver una Tarea.
+- **Reserva**: Puntos asociados a cada Atributo, usados para Esfuerzo y recuperados con descanso.
+- **Resonancia**: Recurso narrativo para influir en la historia, mejorar tiradas o rechazar Intromisiones.
 - **Secuela**: Marca permanente de una herida o trauma, afecta a largo plazo.
-- **Tarea Compleja**: Desafío que requiere múltiples tiradas y aciertos acumulados.
-- **Trabajo en Equipo**: Mecánica donde un personaje asiste a otro, sumando aciertos.
+- **Tarea Compleja**: Desafío que requiere múltiples tiradas y Aciertos acumulados.
+- **Trabajo en Equipo**: Mecánica donde un personaje asiste a otro, sumando Aciertos.
 - **Turno**: Unidad de tiempo abstracta en *Acción y Aventura*, representa segundos de acción.
