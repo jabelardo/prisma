@@ -1,4 +1,4 @@
-# Capítulo de Creación y Progresión de los Personajes Jugadores - *Prisma*
+# Capítulo II: Creación y Progresión de Personajes Jugadores
 
 En *Prisma*, tu personaje es una chispa en el caos, un héroe que corta el destino con cada *Puñado* de dados. Este capítulo te guía para forjar un alma única, desde sus primeros pasos hasta las leyendas que esculpirá con *Filos* precisos y la *Resonancia* que dobla la narrativa. Define su fuerza, perfecciona sus habilidades, elige su profesión, y abraza los objetivos que darán vida a su historia. ¡Que tu aventura comience!
 
