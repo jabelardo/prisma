@@ -14,14 +14,14 @@ En *Prisma*, tu personaje es una chispa en el caos, un héroe que corta el desti
 
 Tu personaje comienza como una idea, un destello de potencial. Usa la hoja de personaje preliminar para anotar cada paso, desde sus *Objetivos* hasta las *Ventajas* que lo hacen único.
 
-### Paso 1a: Concepto y Nombre
+### Paso 1: Concepto y Nombre
 Define la esencia de tu personaje:  
 - **Nombre**: Elige un nombre que resuene con su historia (ej.: Zoe Navarro, Liam Sterling).  
 - **Concepto**: Una frase que capture quién es (ej.: “Cazadora ágil”, “Hacker ingenioso”).  
 
 **Ejemplo**: Zoe Navarro, *Concepto*: “Cazadora ágil”.
 
-### Paso 1b: Objetivos
+### Paso 2: Objetivos
 Define tres *Objetivos* que guíen la trayectoria narrativa de tu personaje. Estos no siempre son metas conscientes, sino propósitos narrativos que enriquecen su historia (ej.: perder un amigo para explorar el duelo).  
 - **Un Objetivo Mayor** (largo plazo): Un logro o evento significativo que requiere esfuerzo prolongado, posiblemente a lo largo de múltiples sesiones (2 *xp* al completarse).  
 - **Dos Objetivos Menores** (corto plazo): Metas alcanzables en una sola sesión (1 *xp* cada uno al completarse).  
@@ -32,7 +32,7 @@ Define tres *Objetivos* que guíen la trayectoria narrativa de tu personaje. Est
 - *Objetivo Mayor*: “Vengar a mi familia derrotando al líder de las bestias” (2 *xp*).  
 - *Objetivos Menores*: “Proteger a mi hermana en una misión” (1 *xp*), “Descubrir una pista sobre las bestias” (1 *xp*).
 
-### Paso 2: Atributos
+### Paso 3: Atributos
 Los *Atributos* son el núcleo de tu personaje, definiendo sus capacidades físicas y mentales. Hay 4 *Atributos*:  
 - **Fuerza (FUE)**: Poder físico, resistencia, combate cuerpo a cuerpo.  
 - **Destreza (DES)**: Agilidad, reflejos, precisión.  
@@ -83,16 +83,7 @@ Las *Habilidades* reflejan el entrenamiento de tu personaje. Hay 18 habilidades,
 - *Medicina* 1, *Melee* 1.  
 - Resto: 0.  
 
-### Paso 5: Resonancia
-La *Resonancia* es una meta moneda narrativa que permite a tu personaje doblar el destino, influir en la narrativa, o potenciar acciones clave.  
-- Comienza con **1 *Resonancia*** (si está en 0, se sube a 1 al crear el personaje).  
-- **Máximo**: 5.  
-- **Ganar y gastar**: Se gana durante el juego por acciones narrativas significativas (ej.: sacrificios, decisiones heroicas, a criterio del DJ). Se gasta para añadir *Filos* (*aciertos adicionales*), evitar consecuencias, o influir en la narrativa (según acuerde el DJ).  
-- Marca en la hoja: [ ] [ ] [ ] [ ] [ ] (inicia con [X] [ ] [ ] [ ] [ ]).  
-
-**Ejemplo**: Zoe comienza con *Resonancia* 1: [X] [ ] [ ] [ ] [ ]. Durante una sesión, gana 1 *Resonancia* por un sacrificio narrativo (proteger a su hermana a gran riesgo) y gasta 1 para añadir un *Filo* en un ataque crucial.
-
-### Paso 6: Ventajas
+### Paso 5: Ventajas
 Las *Ventajas* son rasgos únicos que otorgan capacidades narrativas o mecánicas. En la creación, tu *Profesión* te da **1 Ventaja**. Puedes añadir más si el DJ lo aprueba (ej.: por trasfondo).  
 
 **Tipos de Ventajas** (1-5 puntos según impacto):  
@@ -112,9 +103,10 @@ Las *Ventajas* son rasgos únicos que otorgan capacidades narrativas o mecánica
 **Ejemplo**: Zoe:  
 - *Ventaja* (por *Profesión*): *Equipo Especial* (Arco de precisión, 2 puntos, +1 *Filo* en ataques a distancia precisos).  
 
-### Paso 7: Detalles Finales
+### Paso 6: Detalles Finales
 - **Trasfondo Narrativo** (opcional): Escribe una breve historia, aliados, enemigos, o ganchos para el DJ. Puede incluir una *Condición* inicial (ej.: *Secuela* como *Cicatriz Dolorosa*, +1 Dificultad a *Atletismo* en frío, con posible *xp* si afecta).  
-- **Equipo Inicial**: Basado en *Profesión*, *Ventajas*, y trasfondo, acuerda con el DJ tu equipo inicial.  
+- **Equipo Inicial**: Basado en *Profesión*, *Ventajas*, y trasfondo, acuerda con el DJ tu equipo inicial.
+- **Resonancia**: Es una meta moneda narrativa que permite a tu personaje doblar el destino, influir en la narrativa, o potenciar acciones clave. Comienzas con 1 Resonancia.
 
 **Ejemplo**: Zoe:  
 - *Trasfondo*: “Criada en ruinas, Zoe perdió a su familia por bestias. Jura cazarlas con su arco. Su hermana es su aliada; el líder de las bestias, su enemigo.”  
@@ -122,7 +114,8 @@ Las *Ventajas* son rasgos únicos que otorgan capacidades narrativas o mecánica
   - *Secuela* (opcional): *Cicatriz Dolorosa* (+1 Dificultad a *Atletismo* en frío, resolución: cirugía).  
   - *Obligación*: “Cazar amenazas que acechan las ruinas” (+1 Dificultad a *Persuasión*/*Subterfugio* si evita cazar, resolución: cumplir su juramento).  
 - *Equipo*: Arco, cuchillo, mochila de supervivencia.
-
+- *Resonancia*: Zoe comienza con *Resonancia* 1: [X] [ ] [ ] [ ] [ ]. Durante una sesión, gana 1 *Resonancia* por un sacrificio narrativo (proteger a su hermana a gran riesgo) y gasta 1 para añadir un *Filo* en un ataque crucial.
+  
 ---
 
 ## Progresión de Personajes
