@@ -82,7 +82,7 @@ Las *Habilidades* reflejan el entrenamiento de tu personaje. Hay 18 habilidades,
 
 **Asignación**:  
 - Tienes **16 puntos** para distribuir libremente entre las habilidades.  
-- Ninguna habilidad puede comenzar con más de **3 puntos**, salvo las bonificadas por la *Profesión*.  
+- Ninguna habilidad puede comenzar con más de **3 puntos**, salvo las bonificadas por la *Profesión* o el *Trasfondo*.
 - Las *Especializaciones* de la *Profesión* ya están asignadas.  
 
 **Ejemplo**: Zoe:  
