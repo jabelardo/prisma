@@ -270,11 +270,9 @@ Usa *xp* para mejorar tu personaje:
 - **Ventaja Nueva**: 4 *xp*.
 - **Mejorar Ventaja Existente**: 2 *xp*.
 
-**Progresión por Profesión: Eficiencia y Coherencia**
+**Subir de Nivel una Profesión (Niveles 2 a 5):**
 
 Subir de nivel una *Profesión* es la forma más eficiente de mejorar las características básicas de tu personaje en términos de *xp*, ya que te permite avanzar en varias áreas relacionadas a la vez. Sin embargo, esta eficiencia tiene una condición: todas las mejoras que obtengas al subir de nivel una *Profesión* —ya sean puntos en habilidades, especializaciones, maestrías o ventajas— deben ser coherentes con la naturaleza y el desarrollo de esa *Profesión*. Si deseas mejorar un aspecto que no encaje claramente con tu *Profesión*, deberás hacerlo por la vía individual, pagando el costo de *xp* correspondiente.
-
-**Subir de Nivel una Profesión (Niveles 2 a 5):**
 
 - Ganas +2 puntos para repartir en *Habilidades* (máximo 5 por habilidad).
 - Obtienes una *Especialización* (en cualquier habilidad con al menos 1 punto) o puedes mejorar una *Especialización* a *Maestría* (+2 *Filos*, requiere *Habilidad* 3+).
