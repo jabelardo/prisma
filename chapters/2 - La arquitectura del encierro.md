@@ -1,4 +1,4 @@
-# Capítulo II: La Arquitectura del Encierro
+# Capítulo XXX: La Arquitectura del Encierro
 
 > "El mundo no es una mentira. Es una prisión cuidadosamente diseñada para que olvides que hay algo más allá de sus paredes."
 
