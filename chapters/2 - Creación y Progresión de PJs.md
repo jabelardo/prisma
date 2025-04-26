@@ -59,7 +59,7 @@ El pasado del personaje que hizo que llegara a su situación actual. Incluye una
 - **Relaciones**: Establece las relaciones actuales entre el personaje y los otros pj.
 - **Ganchos iniciales**: información que acuerdas con el DJ para iniciar la narrativa, puede incluir rumores y secretos, propios o ajenos. 
 
-### Paso 3: Profesión
+### Paso 4: Profesión
 La *Profesión* define el rol inicial de tu personaje, otorgando habilidades y rasgos únicos. Elige una *Profesión* de *Nivel 1* (ej.: “Cazadora”, “Técnico”, “Diplomático”).  
 
 **Profesión - Nivel 1**:  
@@ -76,7 +76,7 @@ La *Profesión* define el rol inicial de tu personaje, otorgando habilidades y r
 - Obligación: *Condición persistente* (“Cazar amenazas que acechan las ruinas”, +1 Dificultad a *Persuasión*/*Subterfugio* si evita cazar amenazas, resolución: cumplir su juramento o redimir su deber).  
 - Ventaja: *Equipo Especial* (Arco de precisión).  
 
-### Paso 4: Habilidades
+### Paso 5: Habilidades
 Las *Habilidades* reflejan el entrenamiento de tu personaje. Hay 18 habilidades, cada una con una escala de 0 a 5:  
 - *Artesanía*, *Atletismo*, *Ciencia*, *Combate a Distancia*, *Cultura y Sociedad*, *Empatía*, *Expresión*, *Humanidades*, *Latrocinio*, *Mando*, *Medicina*, *Melee*, *Ocultismo*, *Persuasión*, *Pilotar*, *Subterfugio*, *Supervivencia*, *Tecnología*.  
 
@@ -93,7 +93,7 @@ Las *Habilidades* reflejan el entrenamiento de tu personaje. Hay 18 habilidades,
 - *Medicina* 1, *Melee* 1.  
 - Resto: 0.  
 
-### Paso 5: Ventajas
+### Paso 6: Ventajas
 Las *Ventajas* son rasgos únicos que otorgan capacidades narrativas o mecánicas. En la creación, tu *Profesión* te da **1 Ventaja**. Puedes añadir más si el DJ lo aprueba (ej.: por trasfondo).  
 
 **Tipos de Ventajas** (1-5 puntos según impacto):  
@@ -113,7 +113,7 @@ Las *Ventajas* son rasgos únicos que otorgan capacidades narrativas o mecánica
 **Ejemplo**: Zoe:  
 - *Ventaja* (por *Profesión*): *Equipo Especial* (Arco de precisión, 2 puntos, +1 *Filo* en ataques a distancia precisos).  
 
-### Paso 6: Detalles Finales
+### Paso 7: Detalles Finales
 - **Equipo Inicial**: Basado en *Profesión*, *Ventajas*, y trasfondo, acuerda con el DJ tu equipo inicial.
 - **Resonancia**: Es una meta moneda narrativa que permite a tu personaje doblar el destino, influir en la narrativa, o potenciar acciones clave. Comienzas con 1 Resonancia.
   
@@ -168,54 +168,3 @@ Usa *xp* para mejorar tu personaje:
 - **Condiciones**: Usa *Condiciones* (como *Obligaciones*, *Secuela*, o *Improvisada*) para añadir profundidad, otorgando *xp* cuando se resuelvan o impacten narrativamente.  
 
 ---
-
-## Ejemplo Completo: Zoe Navarro
-
-- **Nombre**: Zoe Navarro.  
-- **Concepto**: Cazadora ágil.  
-- **Objetivos**:  
-  - *Mayor*: “Vengar a mi familia derrotando al líder de las bestias” (2 *xp*).  
-  - *Menores*: “Proteger a mi hermana en una misión” (1 *xp*), “Descubrir una pista sobre las bestias” (1 *xp*).  
-- **Atributos**:  
-  - *Fuerza* 2 (Poder 2, Defensa 2, Reserva [ ] [ ]).  
-  - *Destreza* 4 (Poder 4, Defensa 4, Reserva [ ] [ ] [ ] [ ]).  
-  - *Inteligencia* 3 (Poder 3, Defensa 3, Reserva [ ] [ ] [ ]).  
-  - *Carisma* 2 (Poder 2, Defensa 2, Reserva [ ] [ ]).  
-- **Profesión**: Cazadora (Nivel 1).  
-  - Habilidades: +1 a *Atletismo*, *Combate a Distancia*, *Supervivencia*, *Latrocinio*.  
-  - Especializaciones: *Atletismo* (Parkour, +1 *Filo*), *Latrocinio* (Sigilo, +1 *Filo*).  
-  - Conexiones: +1 Contacto (su hermana, aliada leal).  
-  - Obligación: *Condición persistente* (“Cazar amenazas que acechan las ruinas”, +1 Dificultad a *Persuasión*/*Subterfugio* si evita cazar amenazas, resolución: cumplir su juramento o redimir su deber).  
-  - Ventaja: *Equipo Especial* (Arco de precisión).  
-- **Habilidades**:  
-  - *Atletismo* 4 (*Especialización*: Parkour).  
-  - *Combate a Distancia* 3.  
-  - *Supervivencia* 3.  
-  - *Latrocinio* 2 (*Especialización*: Sigilo).  
-  - *Medicina* 1, *Melee* 1.  
-  - Resto: 0.  
-- **Resonancia**: 1 ([X] [ ] [ ] [ ] [ ]).  
-- **Ventajas**: *Equipo Especial* (Arco de precisión, 2 puntos, +1 *Filo* en ataques precisos).  
-- **Condiciones**:  
-  - *Secuela* (opcional): *Cicatriz Dolorosa* (+1 Dificultad a *Atletismo* en frío, resolución: cirugía).  
-  - *Obligación*: “Cazar amenazas que acechan las ruinas” (+1 Dificultad a *Persuasión*/*Subterfugio* si evita cazar, resolución: cumplir su juramento).  
-- **Trasfondo**: “Criada en ruinas, Zoe perdió a su familia por bestias. Jura cazarlas con su arco. Su hermana es su aliada; el líder de las bestias, su enemigo.”  
-- **Equipo**: Arco, cuchillo, mochila de supervivencia.  
-- **Progresión**: En una sesión, Zoe gana 12 *xp*:  
-  - 1 *xp* (asistir).  
-  - 2 *xp* (*Objetivo Mayor*: derrotar al líder de las bestias).  
-  - 2 *xp* (dos *Objetivos Menores*: proteger a su hermana, descubrir una pista).  
-  - 2 *xp* (hito: revelar el origen de las bestias).  
-  - 1 *xp* (resolver *Condición*: *Obligación* cumplida).  
-  - 2 *xp* (dos eventos dramáticos).  
-  - 2 *xp* (excepción dramática: resolver dos *Condiciones* en una escena épica).  
-  - **Resonancia**: Gana 1 *Resonancia* por proteger a su hermana a gran riesgo ([X] [X] [ ] [ ] [ ]), gasta 1 para añadir un *Filo* en un ataque crucial ([X] [ ] [ ] [ ] [ ]).  
-  - Gasta 8 *xp* en *Profesión* (Cazadora Nivel 2):  
-    - +2 puntos: *Supervivencia* 3 a 4, *Latrocinio* 2 a 3.  
-    - *Especialización*: *Combate a Distancia* (Arco, +1 *Filo*).  
-    - *Ventaja*: Mejora *Equipo Especial* (Arco, ahora +2 *Filos*).  
-  - 4 *xp* restantes (puede gastar en *Especialización* o guardar).
-
----
-
-*Forja un héroe, lanza tu Puñado, y dobla el destino con cada Filo y Resonancia.*
