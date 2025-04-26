@@ -22,15 +22,17 @@ Define la esencia de tu personaje:
 **Ejemplo**: Zoe Navarro, *Concepto*: “Cazadora ágil”.
 
 ### Paso 2: Objetivos
-Define tres *Objetivos* que guíen la trayectoria narrativa de tu personaje. Estos no siempre son metas conscientes, sino propósitos narrativos que enriquecen su historia (ej.: perder un amigo para explorar el duelo).  
-- **Un Objetivo Mayor** (largo plazo): Un logro o evento significativo que requiere esfuerzo prolongado, posiblemente a lo largo de múltiples sesiones (2 *xp* al completarse).  
-- **Dos Objetivos Menores** (corto plazo): Metas alcanzables en una sola sesión (1 *xp* cada uno al completarse).  
+Define tres *Objetivos* que guíen la trayectoria narrativa de tu personaje. Estos no siempre son metas conscientes, sino que también pueden ser propósitos narrativos que enriquecen su historia (ej.: perder un amigo para explorar el duelo).  
+- **Un Objetivo Mayor**: Un logro o evento significativo que requiere esfuerzo prolongado, posiblemente a lo largo de múltiples sesiones (2 *xp* al completarse).  
+- **Dos Objetivos Menores**: Metas alcanzables en una sola sesión (1 *xp* cada uno al completarse).  
 - **Pautas**: Escribe cada *Objetivo* en una frase concisa, general y algo abstracta para facilitar su cumplimiento. Anótalos en la hoja de personaje.  
 - **Modificación**: Al completar un *Objetivo*, reemplázalo tras la escena (manteniendo 1 mayor, 2 menores). Entre sesiones, puedes sustituir *Objetivos* inviables o irrelevantes por otros más adecuados, incluso en direcciones narrativas distintas.  
 
 **Ejemplo**: Zoe:  
 - *Objetivo Mayor*: “Vengar a mi familia derrotando al líder de las bestias” (2 *xp*).  
 - *Objetivos Menores*: “Proteger a mi hermana en una misión” (1 *xp*), “Descubrir una pista sobre las bestias” (1 *xp*).
+
+- **Trasfondo Narrativo** (opcional): Escribe una breve historia, aliados, enemigos, o ganchos para el DJ. Puede incluir una *Condición* inicial (ej.: *Secuela* como *Cicatriz Dolorosa*, +1 Dificultad a *Atletismo* en frío, con posible *xp* si afecta).  
 
 ### Paso 3: Atributos
 Los *Atributos* son el núcleo de tu personaje, definiendo sus capacidades físicas y mentales. Hay 4 *Atributos*:  
@@ -48,6 +50,14 @@ Los *Atributos* son el núcleo de tu personaje, definiendo sus capacidades físi
 **Ejemplo**: Zoe:  
 - *Fuerza* 2 (1 + 1), *Destreza* 4 (1 + 3), *Inteligencia* 3 (1 + 2), *Carisma* 2 (1 + 1).  
 - *Destreza*: Poder 4, Defensa 4, Reserva [ ] [ ] [ ] [ ].  
+
+### Paso 3: Trasfondo: 
+El pasado del personaje que hizo que llegara a su situación actual. Incluye una breve nota de sus años formativos, sus relaciones actuales con el resto de los PJ, aliados, adversario, y ganchos iniciales. Puede incluir una *Condición* inicial (ej.: *Secuela* como *Cicatriz Dolorosa*, +1 Dificultad a *Atletismo* en frío, con posible *xp* si afecta).  
+- **+1 punto en 1 habilidad**: Elige 1 habilidad que reflejen tu *Trasfondo*. Estas pueden superar el límite inicial de 3 (ver *Habilidades*).
+  - **Conexiones**: Elige **+1 Contacto** (un individuo o grupo útil) o **+1 Recursos** (acceso a riqueza/equipo).  
+- **Adversario**: Elige un adversario, rival o enemigo (individuo o grupo)
+- **Relaciones**: Establece las relaciones actuales entre el personaje y los otros pj.
+- **Ganchos iniciales**: información que acuerdas con el DJ para iniciar la narrativa, puede incluir rumores y secretos, propios o ajenos. 
 
 ### Paso 3: Profesión
 La *Profesión* define el rol inicial de tu personaje, otorgando habilidades y rasgos únicos. Elige una *Profesión* de *Nivel 1* (ej.: “Cazadora”, “Técnico”, “Diplomático”).  
@@ -104,17 +114,8 @@ Las *Ventajas* son rasgos únicos que otorgan capacidades narrativas o mecánica
 - *Ventaja* (por *Profesión*): *Equipo Especial* (Arco de precisión, 2 puntos, +1 *Filo* en ataques a distancia precisos).  
 
 ### Paso 6: Detalles Finales
-- **Trasfondo Narrativo** (opcional): Escribe una breve historia, aliados, enemigos, o ganchos para el DJ. Puede incluir una *Condición* inicial (ej.: *Secuela* como *Cicatriz Dolorosa*, +1 Dificultad a *Atletismo* en frío, con posible *xp* si afecta).  
 - **Equipo Inicial**: Basado en *Profesión*, *Ventajas*, y trasfondo, acuerda con el DJ tu equipo inicial.
 - **Resonancia**: Es una meta moneda narrativa que permite a tu personaje doblar el destino, influir en la narrativa, o potenciar acciones clave. Comienzas con 1 Resonancia.
-
-**Ejemplo**: Zoe:  
-- *Trasfondo*: “Criada en ruinas, Zoe perdió a su familia por bestias. Jura cazarlas con su arco. Su hermana es su aliada; el líder de las bestias, su enemigo.”  
-- *Condiciones*:  
-  - *Secuela* (opcional): *Cicatriz Dolorosa* (+1 Dificultad a *Atletismo* en frío, resolución: cirugía).  
-  - *Obligación*: “Cazar amenazas que acechan las ruinas” (+1 Dificultad a *Persuasión*/*Subterfugio* si evita cazar, resolución: cumplir su juramento).  
-- *Equipo*: Arco, cuchillo, mochila de supervivencia.
-- *Resonancia*: Zoe comienza con *Resonancia* 1: [X] [ ] [ ] [ ] [ ]. Durante una sesión, gana 1 *Resonancia* por un sacrificio narrativo (proteger a su hermana a gran riesgo) y gasta 1 para añadir un *Filo* en un ataque crucial.
   
 ---
 
@@ -132,7 +133,7 @@ Ganas *xp* a través de las siguientes fuentes:
 - **Evento dramático importante**: 1 *xp* (a criterio del DJ, ej.: un sacrificio heroico).  
 - **Resolver Condiciones**: 1 *xp* (según la *Condición*, ej.: cumplir una *Obligación* o sanar una *Secuela*).  
 
-**Regla**: Solo puedes ganar 1 *xp* por categoría en una escena (ej.: resolver múltiples *Condiciones* otorga 1 *xp*). En momentos especialmente dramáticos o significativos, el DJ puede permitir múltiples *xp* de la misma categoría.  
+**Regla**: Solo puedes ganar 1 *xp* por categoría en una escena (ej.: resolver múltiples *Condiciones* en una esceena otorga 1 *xp*). En momentos especialmente dramáticos o significativos, el DJ puede permitir múltiples *xp* de la misma categoría en una escena.
 **Nota**: En una sesión típica de 3-4 escenas, un jugador puede ganar 10-15 *xp*, dependiendo de la intensidad narrativa, el cumplimiento de *Objetivos*, y las excepciones dramáticas otorgadas por el DJ.  
 
 **Ejemplo**: En una sesión, Zoe gana 12 *xp*: 1 *xp* (asistir), 2 *xp* (*Objetivo Mayor*: derrotar al líder de las bestias), 2 *xp* (dos *Objetivos Menores*: proteger a su hermana, descubrir una pista), 2 *xp* (hito: revelar el origen de las bestias), 1 *xp* (resolver *Condición*: *Obligación* cumplida), 2 *xp* (dos eventos dramáticos), 2 *xp* (excepción dramática: resolver dos *Condiciones* en una escena épica).  
