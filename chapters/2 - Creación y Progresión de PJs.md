@@ -51,7 +51,7 @@ Los *Atributos* son el núcleo de tu personaje, definiendo sus capacidades físi
 - *Fuerza* 2 (1 + 1), *Destreza* 4 (1 + 3), *Inteligencia* 3 (1 + 2), *Carisma* 2 (1 + 1).  
 - *Destreza*: Poder 4, Defensa 4, Reserva [ ] [ ] [ ] [ ].  
 
-### Paso 3: Trasfondo: 
+### Paso 4: Trasfondo: 
 El pasado del personaje que hizo que llegara a su situación actual. Incluye una breve nota de sus años formativos, sus relaciones actuales con el resto de los PJ, aliados, adversario, y ganchos iniciales. Puede incluir una *Condición* inicial (ej.: *Secuela* como *Cicatriz Dolorosa*, +1 Dificultad a *Atletismo* en frío, con posible *xp* si afecta).  
 - **+1 punto en 1 habilidad**: Elige 1 habilidad que reflejen tu *Trasfondo*. Estas pueden superar el límite inicial de 3 (ver *Habilidades*).
   - **Conexiones**: Elige **+1 Contacto** (un individuo o grupo útil) o **+1 Recursos** (acceso a riqueza/equipo).  
@@ -59,7 +59,7 @@ El pasado del personaje que hizo que llegara a su situación actual. Incluye una
 - **Relaciones**: Establece las relaciones actuales entre el personaje y los otros pj.
 - **Ganchos iniciales**: información que acuerdas con el DJ para iniciar la narrativa, puede incluir rumores y secretos, propios o ajenos. 
 
-### Paso 4: Profesión
+### Paso 5: Profesión
 La *Profesión* define el rol inicial de tu personaje, otorgando habilidades y rasgos únicos. Elige una *Profesión* de *Nivel 1* (ej.: “Cazadora”, “Técnico”, “Diplomático”).  
 
 **Profesión - Nivel 1**:  
@@ -76,7 +76,7 @@ La *Profesión* define el rol inicial de tu personaje, otorgando habilidades y r
 - Obligación: *Condición persistente* (“Cazar amenazas que acechan las ruinas”, +1 Dificultad a *Persuasión*/*Subterfugio* si evita cazar amenazas, resolución: cumplir su juramento o redimir su deber).  
 - Ventaja: *Equipo Especial* (Arco de precisión).  
 
-### Paso 5: Habilidades
+### Paso 6: Habilidades
 Las *Habilidades* reflejan el entrenamiento de tu personaje. Hay 18 habilidades, cada una con una escala de 0 a 5:  
 - *Artesanía*, *Atletismo*, *Ciencia*, *Combate a Distancia*, *Cultura y Sociedad*, *Empatía*, *Expresión*, *Humanidades*, *Latrocinio*, *Mando*, *Medicina*, *Melee*, *Ocultismo*, *Persuasión*, *Pilotar*, *Subterfugio*, *Supervivencia*, *Tecnología*.  
 
@@ -93,7 +93,7 @@ Las *Habilidades* reflejan el entrenamiento de tu personaje. Hay 18 habilidades,
 - *Medicina* 1, *Melee* 1.  
 - Resto: 0.  
 
-### Paso 6: Ventajas
+### Paso 7: Ventajas
 Las *Ventajas* son rasgos únicos que otorgan capacidades narrativas o mecánicas. En la creación, tu *Profesión* te da **1 Ventaja**. Puedes añadir más si el DJ lo aprueba (ej.: por trasfondo).  
 
 **Tipos de Ventajas** (1-5 puntos según impacto):  
@@ -113,7 +113,7 @@ Las *Ventajas* son rasgos únicos que otorgan capacidades narrativas o mecánica
 **Ejemplo**: Zoe:  
 - *Ventaja* (por *Profesión*): *Equipo Especial* (Arco de precisión, 2 puntos, +1 *Filo* en ataques a distancia precisos).  
 
-### Paso 7: Detalles Finales
+### Paso 8: Detalles Finales
 - **Equipo Inicial**: Basado en *Profesión*, *Ventajas*, y trasfondo, acuerda con el DJ tu equipo inicial.
 - **Resonancia**: Es una meta moneda narrativa que permite a tu personaje doblar el destino, influir en la narrativa, o potenciar acciones clave. Comienzas con 1 Resonancia.
   
