@@ -33,8 +33,8 @@ Para resolver una tarea, sigue estos pasos:
 
 **Tipos de Resultados (Resumen):**
 
-* **Éxito:** La acción se logra, con posibles variaciones como Éxito Parcial o Éxito Excepcional.
-* **Fallo:** La acción fracasa, con posibles variaciones como Falla Marginal o Falla Crítica.
+* **Éxito:** La acción se logra, con posible Éxito Excepcional.
+* **Fallo:** La acción fracasa, con posible Falla Crítica.
 * Es posible modificar las tiradas usando la mecánica de **Esfuerzo**, gastando puntos de Reserva para obtener más aciertos.
 
 ### Estableciendo Dificultades
@@ -169,7 +169,7 @@ En un mundo donde la soledad es una sentencia, la colaboración es la clave para
 El fracaso no es el fin, sino una chispa para la determinación. Cuando una tarea simple falla, el personaje puede intentarlo de nuevo, pagando un precio en esfuerzo y riesgo.
 
 - **Mecánica**:
-  - Tras una *Falla Normal*, *Falla Marginal* o *Falla Crítica* en una tarea simple, el personaje puede reintentarla, usando al menos 1 punto de *Reserva* (de un *Atributo* apropiado narrativamente).
+  - Tras una *Falla* o *Falla Crítica* en una tarea simple, el personaje puede reintentarla, usando al menos 1 punto de *Reserva* (de un *Atributo* apropiado narrativamente).
   - Es una nueva acción, requiriendo el mismo esfuerzo temporal que el intento original (turnos, minutos, horas, días o semanas).
   - Usa la misma *Habilidad* y *Atributo* (o una combinación narrativa apropiada), con la misma *Dificultad*, salvo ajustes por contexto (*Modificadores de Dificultad*).
   - El DJ puede prohibir reintentos si no son viables (ejemplo: no puedes reintentar un salto fallido si el puente ya colapsó).
@@ -434,10 +434,9 @@ Define claramente los aciertos requeridos, intervalos (turnos, minutos, horas, d
 ### Gestionando Resultados
 
 - **Falla Crítica**: Un desastre narrativo con *Condiciones* (dos en *Tareas Complejas*).
-- **Falla Normal**: Avanza la narrativa con un giro. Usa *Intromisiones* si es apropiado.
-- **Falla Marginal**: Ofrece *Resonancia* o *xp*, una lección en el fracaso.
+- **Falla**: Avanza la narrativa con un giro. Usa *Intromisiones* si es apropiado.
 - **Éxito Parcial**: Logro con *Condición*.
-- **Éxito Regular**: Triunfo limpio, la calma antes de la tormenta.
+- **Éxito**: Triunfo limpio, la calma antes de la tormenta.
 - **Éxito Excepcional**: Gloria con *Condición positiva* o recompensa.
 
 ### Gestionando Intromisiones
@@ -470,29 +469,26 @@ Recompensa *Resonancia* por aceptar *Intromisiones* o actuar según metas. Es un
 - **Ejemplo 2: Falla Normal**\
   Liam Voss (*Inteligencia 2*, *Tecnología 1*) hackea un panel de seguridad (*Dificultad* 4, *Drama e Investigación*): Tira su *Puñado* de 3 dados: 1, 3, 5 = 0 aciertos (*Falla Normal*). No accede, pero el DJ introduce una *Intromisión*: si la acepta, los guardias se alertan, avanzando la historia.
 
-- **Ejemplo 3: Falla Marginal**\
-  Maya Sterling (*Carisma 2*, *Persuasión 2*) negocia con un contrabandista (*Dificultad* 5, mitad = 2, *Drama e Investigación*): Tira su *Puñado* de 4 dados: 3, 4, 7, 8 = 2 aciertos (*Falla Marginal*). No convence, pero gana 1 *Resonancia* al notar su lenguaje corporal.
-
-- **Ejemplo 4: Éxito Parcial**\
+- **Ejemplo 3: Éxito Parcial**\
   Ethan Cole (*Inteligencia 3*, *Ciencia 1*) descifra un mensaje bajo presión (*Dificultad* 5, mitad = 2, *Acción y Aventura*): Tira su *Puñado* de 4 dados + 2 *Reserva* de *Inteligencia*: 2, 5, 6, 9 = 3 aciertos (*Éxito Parcial*). Descubre el mensaje, pero sufre *Herida Superficial* (rasguño), resuelta con *Descanso*.
 
-- **Ejemplo 5: Éxito Regular**\
+- **Ejemplo 4: Éxito Regular**\
   Kael Rivera (*Destreza 2*, *Pilotar 2*) maniobra un vehículo por un paso estrecho (*Dificultad* 2, *Acción y Aventura*): Tira su *Puñado* de 4 dados: 1, 7, 8, 9 = 3 aciertos (*Éxito Regular*). Atraviesa con precisión, el motor rugiendo en triunfo.
 
-- **Ejemplo 6: Éxito Excepcional**\
+- **Ejemplo 5: Éxito Excepcional**\
   Zoe Navarro (*Destreza 3*, *Atletismo 2*) salta un callejón (*Dificultad* 2, requiere 3 aciertos, *Acción y Aventura*): Tira su *Puñado* de 5 dados: 3, 5, 7, 8, 10 = 4 aciertos (*Éxito Excepcional*). Cruza con un giro acrobático, ganando una *Condición positiva* (-1 *Dificultad* a *Persuasión* futura, 1 *xp* al resolver).
 
-- **Ejemplo 7: Tarea Compleja**\
+- **Ejemplo 6: Tarea Compleja**\
   Liam Voss (*Inteligencia 3*, *Tecnología 3*, *Ciberseguridad*) hackea un servidor (*Tarea Compleja*, 10 aciertos, *Dificultad* 4, 6 turnos, *Acción y Aventura*).
 
   - **Primer intervalo**: Tira su *Puñado* de 6 dados: 7, 8, 9, 10, 4, 6 = 5 aciertos (*Éxito Excepcional*). Reduce a 7 aciertos. 5/7.
   - **Segundo intervalo**: *Esfuerzo* (2 *Reserva* de *Inteligencia*): Tira 6 dados: 2, 3, 4, 5, 6, 6 = 0 aciertos (*Falla Crítica*). *Herida Seria* (corte) y *Herida Superficial* (moretón). 5/7.
   - **Tercer intervalo**: Tira 6 dados (+1 *Dificultad* por *Herida Seria*): 7, 8, 9, 10, 2, 3 = 4 aciertos (*Éxito Parcial*). Completa (9/7), pero un guardia detecta.
 
-- **Ejemplo 8: Trabajo en Equipo**\
+- **Ejemplo 7: Trabajo en Equipo**\
   Zoe (*Destreza 3*, *Artesanía 2*) fabrica balas (*Dificultad* 4, *Drama e Investigación*). Ethan (*Inteligencia 3*, *Ciencia 2*) asiste. Zoe: Tira su *Puñado* de 5 dados: 7, 8, 9, 4, 6 = 3 aciertos. Ethan: Tira su *Puñado* de 5 dados: 7, 10, 3, 5, 6 = 3 aciertos (2 adicionales). Total: 5 aciertos (*Éxito Regular*).
 
-- **Ejemplo 9: Reintentar una Tarea**\
+- **Ejemplo 8: Reintentar una Tarea**\
   Maya (*Destreza 2*, *Latrocinio 2*) fuerza una cerradura (*Dificultad* 3, *Drama e Investigación*): Tira su *Puñado* de 4 dados: 2, 4, 5, 6 = 0 aciertos (*Falla Normal*). Reintenta con 1 *Reserva* de *Destreza*: Tira 4 dados: 7, 8, 9, 3 = 4 aciertos (*Éxito Regular*). Entra sigilosamente.
 
 ## Glosario de Términos Básicos
