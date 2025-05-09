@@ -101,40 +101,52 @@ La *Resonancia* es el eco de tu personaje en la narrativa, una chispa que te per
 
 ### Tipos de Resultados
 
-Cada tirada en *Prisma* es un giro del destino, desde el colapso hasta la gloria. Consulta la tabla *Del Fracaso a la Gloria* para los rangos de aciertos.
+Al hacer una tirada, lanzás tu **Puñado**: una cantidad de d10 igual a la suma de un Atributo y una Habilidad.
 
-#### Fracasos
+Cada dado que muestre **7 o más** es un **acierto**. Los **10** cuentan como **2 aciertos**.
 
-- **Falla Crítica**: Ocurre al usar *Esfuerzo* y obtener 0 aciertos. El mundo se quiebra: un plan colapsa, un enemigo aprovecha o se impone una *Condición*. En *Tareas Complejas*, sufres dos *Condiciones*. Un asistente con *Falla Crítica* sufre una *Condición*. Los puntos de *Reserva* arriesgados no se gastan.
-- **Falla Normal**: 0 aciertos. La acción fracasa, pero la narrativa avanza con un giro. Permite reintentos en tareas simples, salvo prohibición del DJ. En *Tareas Complejas*, produce una *Condición* o abandono.
-- **Falla Marginal**: Aciertos menores a la mitad de la *Dificultad* (redondeando abajo). Fallas, pero aprendes: ganas 1 *Resonancia*. Si la *Resonancia* está al máximo (5), recuperas 1 punto de *Reserva*. Si todas las *Reservas* están al máximo, ganas 1 *xp*. Permite reintentos en tareas simples. En *Tareas Complejas*, obtienes una *Condición* o abandono.
+El número total de aciertos se compara con la **dificultad** establecida por el/la DJ. El resultado puede clasificarse de la siguiente forma:
 
-#### Éxitos
+#### Fracaso
 
-- **Éxito Parcial**: Aciertos ≥ mitad de *Dificultad*, &lt; total. Logras algo, pero con un costo: retraso, complicación o *Condición*.
-- **Éxito Regular**: Aciertos ≥ *Dificultad* y &lt; 1.5 × *Dificultad* (redondeando arriba). La acción se completa como planeaste, sin sombras en el horizonte.
-- **Éxito Excepcional**: Aciertos ≥ 1.5 × *Dificultad* (redondeando arriba). Triunfas con gloria, eligiendo: recuperar 1 punto de *Reserva*, ganar 1 punto de *Resonancia* o aplicar una *Condición positiva* no persistente (1 *xp* al resolverse).
+No se alcanza la dificultad. La acción no tiene éxito y no se activan Complicaciones.
 
-**Grados**: *Falla Crítica*, *Falla Normal*, *Falla Marginal*, *Éxito Parcial*, *Éxito Regular*, *Éxito Excepcional*.
+> *Tratás de forzar la cerradura con rapidez, pero no podés con el mecanismo. El candado resiste, por ahora.*
 
-#### Tabla: Del Fracaso a la Gloria
+#### Desastre
 
-| Dificultad | Falla Marginal | Éxito Parcial | Éxito Regular | Éxito Excepcional |
-| --- | --- | --- | --- | --- |
-| 1 | — | — | 1 | 2+ |
-| 2 | — | 1 | 2 | 3+ |
-| 3 | 1 | 2 | 3-4 | 5+ |
-| 4 | 1 | 2-3 | 4-5 | 6+ |
-| 5 | 1-2 | 3-4 | 5-7 | 8+ |
-| 6 | 1-2 | 3-5 | 6-8 | 9+ |
-| 7 | 1-3 | 4-6 | 7-10 | 11+ |
-| 8 | 1-3 | 4-7 | 8-11 | 12+ |
+No se alcanza la dificultad **y** se activan todas las Complicaciones relacionadas.
 
-**Notas**:
+> *La ganzúa se rompe con un chasquido seco, y una luz roja se enciende en el panel de seguridad.*
 
-- *Falla Marginal*: +1 *Resonancia*, o 1 *Reserva*, o 1 *xp* si *Resonancia* y *Reserva* están al máximo.
-- *Éxito Excepcional*: Aciertos ≥ 1.5 × *Dificultad* (redondeado arriba).
-- Mitad de *Dificultad* redondea abajo (ejemplo: 7 ÷ 2 = 3).
+#### Éxito
+
+Se iguala o supera la dificultad. La acción ocurre como se esperaba. Si sobran aciertos, podés usarlos para activar **Ventajas**.
+
+> *Lográs abrir el panel oculto. Además, con una Ventaja, notás que no fue sellado correctamente: alguien más pasó antes por aquí.*
+
+#### Éxito con Consecuencias
+
+Se alcanza la dificultad, pero no se cancelan todas las Complicaciones. La acción ocurre, pero con consecuencias negativas.
+
+> *Escapás por la escalera de emergencia... pero un testigo logra verte antes de desaparecer entre las sombras.*
+
+#### Éxito Radiante
+
+La dificultad se supera, todas las Complicaciones se cancelan y sobran aciertos para activar Ventajas.
+
+> *Salís sin ser visto, anulás la trampa mágica con precisión, y todavía te queda tiempo para registrar el escritorio antes de irte.*
+
+---
+
+### Dificultad 0 y Niveles de Complicación
+
+Algunas acciones pueden no requerir esfuerzo significativo. En estos casos, la **Dificultad puede ser 0**. Esto significa que con **al menos un acierto**, la acción se resuelve normalmente. Tirar aún puede ser útil si hay posibilidad de obtener Ventajas o si la acción podría activar Complicaciones.
+
+Las **Complicaciones** pueden tener **niveles**, que representan cuántos aciertos adicionales son necesarios para anularlas. Si no se cancelan, se activan en orden de gravedad (según criterio del/la DJ), desde la menor a la más severa.
+
+> Ejemplo: Una acción con dificultad 2 y dos Complicaciones de nivel 1 y 2 requiere 5 aciertos totales para tener un Éxito Radiante.
+
 
 ### B. Trabajo en Equipo
 
