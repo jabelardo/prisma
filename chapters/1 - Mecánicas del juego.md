@@ -125,7 +125,7 @@ Se iguala o supera la dificultad. La acción ocurre como se esperaba. Si sobran 
 
 > *Lográs abrir el panel oculto. Además, con una Ventaja, notás que no fue sellado correctamente: alguien más pasó antes por aquí.*
 
-#### Éxito con Consecuencias
+#### Éxito con Consecuencias 
 
 Se alcanza la dificultad, pero no se cancelan todas las Complicaciones. La acción ocurre, pero con consecuencias negativas.
 
@@ -177,7 +177,7 @@ El fracaso no es el fin, sino una chispa para la determinación. Cuando una tare
 - **Condiciones**:
   - El *Esfuerzo* obligatorio arriesga *Falla Crítica*, imponiendo una *Condición* más severa (ejemplo: *Herida Seria* por forzar una cerradura bajo presión).
   - La *Dificultad* puede aumentar (+1) si el fallo creó complicaciones (ejemplo: cerradura dañada, guardias alertados).
-- **Ejemplo**: Maya Sterling (*Destreza 2*, *Latrocinio 2*) intenta forzar una cerradura para entrar en un almacén (*Dificultad* 3, *Drama e Investigación*). Tira su *Puñado* de 4 dados: 2, 4, 5, 6 = 0 aciertos (*Falla Normal*). Reintenta, usando 1 *Reserva* de *Destreza*. Tira 4 dados: 7, 8, 9, 3 = 3 aciertos + 1 por *Esfuerzo* = 4 aciertos (*Éxito Regular*). La cerradura cede con un chasquido, y Maya se desliza dentro, gastando 1 *Reserva*.
+- **Ejemplo**: Maya Sterling (*Destreza 2*, *Latrocinio 2*) intenta forzar una cerradura para entrar en un almacén (*Dificultad* 3, *Drama e Investigación*). Tira su *Puñado* de 4 dados: 2, 4, 5, 6 = 0 aciertos (*Falla*). Reintenta, usando 1 *Reserva* de *Destreza*. Tira 4 dados: 7, 8, 9, 3 = 3 aciertos + 1 por *Esfuerzo* = 4 aciertos (*Éxito Regular*). La cerradura cede con un chasquido, y Maya se desliza dentro, gastando 1 *Reserva*.
 
 ### D. Tarea Compleja
 
@@ -212,7 +212,7 @@ Algunas hazañas no se resuelven en un instante, sino en una carrera contra el t
 - **Ejemplo**: Liam Voss (*Inteligencia 3*, *Tecnología 3*, especialización *Ciberseguridad*) hackea un servidor para desactivar una alarma durante un asalto (*Tarea Compleja*, 10 aciertos, *Dificultad* 4 por intervalo, 1 tirada por turno, límite de 6 turnos, *Acción y Aventura*).
   - **Primer intervalo**: Tira su *Puñado* de 6 dados: 7, 8, 9, 10, 4, 6 = 4 aciertos + 1 (*Ciberseguridad*) = 5 aciertos (*Éxito Excepcional*). Reduce los aciertos necesarios de 10 a 7 (*Habilidad* 3). Acumula 5/7.
   - **Segundo intervalo**: Usa *Esfuerzo* (2 *Reserva* de *Inteligencia*): 2, 3, 4, 5, 6, 6 = 0 aciertos (*Falla Crítica*). Sufre *Herida Seria* (corte al manipular cables) y *Herida Superficial* (moretón). Negocia con el DJ para mantener la tarea. Acumula 5/7.
-  - **Tercer intervalo**: Tira su *Puñado* de 6 dados (+1 *Dificultad* por *Herida Seria*): 7, 8, 9, 10, 2, 3 = 4 aciertos (*Éxito Parcial*). Completa (9/7). La alarma se desactiva, pero un guardia detecta la intrusión.
+  - **Tercer intervalo**: Tira su *Puñado* de 6 dados (+1 *Dificultad* por *Herida Seria*): 7, 8, 9, 10, 2, 3 = 4 aciertos (*Éxito con Consecuencias*). Completa (9/7). La alarma se desactiva, pero un guardia detecta la intrusión.
 
 ## III. Puñado
 
@@ -275,7 +275,7 @@ Las *Condiciones* representan cómo la historia ha tocado a tu personaje, para b
 Se obtienen por:
 
 - **Éxito Excepcional**: *Condiciones positivas* como ventaja narrativa.
-- **Falla Crítica**/**Éxito Parcial**/**Tarea Compleja**: *Condiciones* negativas.
+- **Falla Crítica**/**Éxito con Consecuencias**/**Tarea Compleja**: *Condiciones* negativas.
 - **Intromisiones**: Chequeos fallidos.
 - **Narrativa**: El DJ las impone según la historia.
 
@@ -304,7 +304,7 @@ Si una *Condición* pierde relevancia (ejemplo: una *Condición* narrativa tras 
   - **Resolución**: Se elimina con *Descanso*.
   - **Permanencia**: Temporal.
   - **XP**: No otorga *xp*.
-  - **Ejemplo**: Zoe recibe un moretón tras un *Éxito Parcial* en combate. Lo resuelve con un *Descanso Corto* en un callejón.
+  - **Ejemplo**: Zoe recibe un moretón tras un *Éxito con Consecuencias* en combate. Lo resuelve con un *Descanso Corto* en un callejón.
 
 - **Herida Seria**
 
@@ -373,7 +373,7 @@ Las *Intromisiones del DJ* son el susurro del destino, giros narrativos que sacu
   - **Complicaciones inminentes**: Un peligro se acerca. Ejemplo: una explosión requiere *Atletismo* (*Dificultad* 4). Fallar: *Herida Seria*.
   - **Habilidad del oponente**: Un enemigo esquiva. Ejemplo: requiere *Percepción* (*Dificultad* 4). Fallar: *Condición* improvisada (+1 *Dificultad* *Combate*).
   - **Pifias**: Dejar caer un objeto clave. Ejemplo: el vial de veneno resbala, requiere *Destreza* (*Dificultad* 3). Fallar: *Herida Superficial*.
-  - **Éxito parcial**: Lograr algo con costo. Ejemplo: desactivar una bomba, pero alguien debe sostener el detonador (*Fuerza*, *Dificultad* 4). Fallar: *Condición* improvisada.
+  - **Éxito con Consecuencias**: Lograr algo con costo. Ejemplo: desactivar una bomba, pero alguien debe sostener el detonador (*Fuerza*, *Dificultad* 4). Fallar: *Condición* improvisada.
 - **Consejos**:
   - Usa *Intromisiones* con moderación (una por escena) para evitar comedia o frustración.
   - Ajusta a la modalidad: derrumbes en *Acción y Aventura*, traiciones en *Drama e Investigación*, imprevistos en *Downtime*.
@@ -391,7 +391,7 @@ El tiempo en *Prisma* es un lienzo flexible, moldeado por la intensidad de la hi
 
   - **Descripción**: Un vendaval de adrenalina donde cada segundo cuenta. Persecuciones, tiroteos y hazañas físicas dominan, con el tiempo medido en *turnos* (abstracciones de segundos frenéticos).
   - **Mecánicas**: Tiradas frecuentes (*Atletismo*, *Melee*, *Combate a Distancia*). *Heridas* (*Herida Superficial*, *Herida Seria*) son comunes por el peligro constante. *Descansos Cortos* permiten breves pausas.
-  - **Ejemplo**: Zoe Navarro esquiva trampas en una fortaleza en ruinas, tirando su *Puñado* de *Atletismo* cada turno para evitar derrumbes (*Dificultad* 4). Un *Éxito Parcial* le da *Herida Superficial*, resuelta con *Descanso*.
+  - **Ejemplo**: Zoe Navarro esquiva trampas en una fortaleza en ruinas, tirando su *Puñado* de *Atletismo* cada turno para evitar derrumbes (*Dificultad* 4). Un *Éxito con Consecuencias* le da *Herida Superficial*, resuelta con *Descanso*.
 
 - **Drama e Investigación**
 
@@ -435,7 +435,7 @@ Define claramente los aciertos requeridos, intervalos (turnos, minutos, horas, d
 
 - **Falla Crítica**: Un desastre narrativo con *Condiciones* (dos en *Tareas Complejas*).
 - **Falla**: Avanza la narrativa con un giro. Usa *Intromisiones* si es apropiado.
-- **Éxito Parcial**: Logro con *Condición*.
+- **Éxito con Consecuencias**: Logro con *Condición*.
 - **Éxito**: Triunfo limpio, la calma antes de la tormenta.
 - **Éxito Excepcional**: Gloria con *Condición positiva* o recompensa.
 
@@ -445,7 +445,7 @@ Usa *Intromisiones* con moderación (una por escena) para inyectar drama, como u
 
 ### Gestionando Condiciones
 
-- **Asignación**: Por *Éxito Excepcional* (positivas), *Falla Crítica*/*Éxito Parcial*/*Tarea Compleja* (negativas), *Intromisiones* (chequeos fallidos) o narrativa.
+- **Asignación**: Por *Éxito Excepcional* (positivas), *Falla Crítica*/*Éxito con Consecuencias*/*Tarea Compleja* (negativas), *Intromisiones* (chequeos fallidos) o narrativa.
 - **Heridas**: Acumulación múltiple, máximo 4 *Heridas Serias*/*Serias Tratadas*.
 - **Positivas**: Reducen *Dificultad* (-1 o -2 según narrativa). 1 *xp* al resolverse.
 - **Persistentes**: Ejemplo: *Secuela*. 1 *xp* por sesión si impacta.
@@ -466,11 +466,11 @@ Recompensa *Resonancia* por aceptar *Intromisiones* o actuar según metas. Es un
 - **Ejemplo 1: Falla Crítica**\
   Talia Kane (*Fuerza 2*, *Atletismo 1*) intenta derribar una barricada para escapar de perseguidores (*Dificultad* 3, *Acción y Aventura*). Usa *Esfuerzo* (2 *Reserva* de *Fuerza*): Tira su *Puñado* de 3 dados: 2, 4, 6 = 0 aciertos (*Falla Crítica*). El crujido de la barricada resuena mientras sufre *Herida Seria* (corte profundo, +1 *Dificultad* *Fuerza*) y *Herida Superficial* (moretón).
 
-- **Ejemplo 2: Falla Normal**\
-  Liam Voss (*Inteligencia 2*, *Tecnología 1*) hackea un panel de seguridad (*Dificultad* 4, *Drama e Investigación*): Tira su *Puñado* de 3 dados: 1, 3, 5 = 0 aciertos (*Falla Normal*). No accede, pero el DJ introduce una *Intromisión*: si la acepta, los guardias se alertan, avanzando la historia.
+- **Ejemplo 2: Falla**\
+  Liam Voss (*Inteligencia 2*, *Tecnología 1*) hackea un panel de seguridad (*Dificultad* 4, *Drama e Investigación*): Tira su *Puñado* de 3 dados: 1, 3, 5 = 0 aciertos (*Falla*). No accede, pero el DJ introduce una *Intromisión*: si la acepta, los guardias se alertan, avanzando la historia.
 
-- **Ejemplo 3: Éxito Parcial**\
-  Ethan Cole (*Inteligencia 3*, *Ciencia 1*) descifra un mensaje bajo presión (*Dificultad* 5, mitad = 2, *Acción y Aventura*): Tira su *Puñado* de 4 dados + 2 *Reserva* de *Inteligencia*: 2, 5, 6, 9 = 3 aciertos (*Éxito Parcial*). Descubre el mensaje, pero sufre *Herida Superficial* (rasguño), resuelta con *Descanso*.
+- **Ejemplo 3: Éxito con Consecuencias**\
+  Ethan Cole (*Inteligencia 3*, *Ciencia 1*) descifra un mensaje bajo presión (*Dificultad* 5, mitad = 2, *Acción y Aventura*): Tira su *Puñado* de 4 dados + 2 *Reserva* de *Inteligencia*: 2, 5, 6, 9 = 3 aciertos (*Éxito con Consecuencias*). Descubre el mensaje, pero sufre *Herida Superficial* (rasguño), resuelta con *Descanso*.
 
 - **Ejemplo 4: Éxito Regular**\
   Kael Rivera (*Destreza 2*, *Pilotar 2*) maniobra un vehículo por un paso estrecho (*Dificultad* 2, *Acción y Aventura*): Tira su *Puñado* de 4 dados: 1, 7, 8, 9 = 3 aciertos (*Éxito Regular*). Atraviesa con precisión, el motor rugiendo en triunfo.
@@ -483,13 +483,13 @@ Recompensa *Resonancia* por aceptar *Intromisiones* o actuar según metas. Es un
 
   - **Primer intervalo**: Tira su *Puñado* de 6 dados: 7, 8, 9, 10, 4, 6 = 5 aciertos (*Éxito Excepcional*). Reduce a 7 aciertos. 5/7.
   - **Segundo intervalo**: *Esfuerzo* (2 *Reserva* de *Inteligencia*): Tira 6 dados: 2, 3, 4, 5, 6, 6 = 0 aciertos (*Falla Crítica*). *Herida Seria* (corte) y *Herida Superficial* (moretón). 5/7.
-  - **Tercer intervalo**: Tira 6 dados (+1 *Dificultad* por *Herida Seria*): 7, 8, 9, 10, 2, 3 = 4 aciertos (*Éxito Parcial*). Completa (9/7), pero un guardia detecta.
+  - **Tercer intervalo**: Tira 6 dados (+1 *Dificultad* por *Herida Seria*): 7, 8, 9, 10, 2, 3 = 4 aciertos (*Éxito con Consecuencias*). Completa (9/7), pero un guardia detecta.
 
 - **Ejemplo 7: Trabajo en Equipo**\
   Zoe (*Destreza 3*, *Artesanía 2*) fabrica balas (*Dificultad* 4, *Drama e Investigación*). Ethan (*Inteligencia 3*, *Ciencia 2*) asiste. Zoe: Tira su *Puñado* de 5 dados: 7, 8, 9, 4, 6 = 3 aciertos. Ethan: Tira su *Puñado* de 5 dados: 7, 10, 3, 5, 6 = 3 aciertos (2 adicionales). Total: 5 aciertos (*Éxito Regular*).
 
 - **Ejemplo 8: Reintentar una Tarea**\
-  Maya (*Destreza 2*, *Latrocinio 2*) fuerza una cerradura (*Dificultad* 3, *Drama e Investigación*): Tira su *Puñado* de 4 dados: 2, 4, 5, 6 = 0 aciertos (*Falla Normal*). Reintenta con 1 *Reserva* de *Destreza*: Tira 4 dados: 7, 8, 9, 3 = 4 aciertos (*Éxito Regular*). Entra sigilosamente.
+  Maya (*Destreza 2*, *Latrocinio 2*) fuerza una cerradura (*Dificultad* 3, *Drama e Investigación*): Tira su *Puñado* de 4 dados: 2, 4, 5, 6 = 0 aciertos (*Falla*). Reintenta con 1 *Reserva* de *Destreza*: Tira 4 dados: 7, 8, 9, 3 = 4 aciertos (*Éxito Regular*). Entra sigilosamente.
 
 ## Glosario de Términos Básicos
 
