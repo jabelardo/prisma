@@ -99,7 +99,7 @@ La *Resonancia* es el eco de tu personaje en la narrativa, una chispa que te per
     - Introducir un detalle importante plausible (ejemplo: un aliado llega justo a tiempo), con aprobación del DJ.
 - **Regla**: Si el DJ rechaza un detalle, no gastas *Resonancia*.
 
-## Tipos de Resultados
+### Tipos de Resultados
 
 Al hacer una tirada, lanzás tu **Puñado**: una cantidad de d10 igual a la suma de un Atributo y una Habilidad.
 
@@ -107,31 +107,31 @@ Cada dado que muestre **7 o más** es un **acierto**. Los **10** cuentan como **
 
 El número total de aciertos se compara con la **dificultad** establecida por el/la DJ. El resultado puede clasificarse de la siguiente forma:
 
-### Fracaso
+#### Fracaso
 
 No se alcanza la dificultad. La acción no tiene éxito y no se activan Complicaciones.
 
 > *Tratás de forzar la cerradura con rapidez, pero no podés con el mecanismo. El candado resiste, por ahora.*
 
-### Desastre
+#### Desastre
 
 No se alcanza la dificultad **y** se activan todas las Complicaciones relacionadas.
 
 > *La ganzúa se rompe con un chasquido seco, y una luz roja se enciende en el panel de seguridad.*
 
-### Éxito
+#### Éxito
 
 Se iguala o supera la dificultad. La acción ocurre como se esperaba. Si sobran aciertos, podés usarlos para activar **Ventajas**.
 
 > *Lográs abrir el panel oculto. Además, con una Ventaja, notás que no fue sellado correctamente: alguien más pasó antes por aquí.*
 
-### Éxito con Consecuencias
+#### Éxito con Consecuencias
 
 Se alcanza la dificultad, pero no se cancelan todas las Complicaciones. La acción ocurre, pero con consecuencias negativas.
 
 > *Escapás por la escalera de emergencia... pero un testigo logra verte antes de desaparecer entre las sombras.*
 
-### Éxito Radiante
+#### Éxito Radiante
 
 La dificultad se supera, todas las Complicaciones se cancelan y sobran aciertos para activar Ventajas.
 
@@ -139,7 +139,7 @@ La dificultad se supera, todas las Complicaciones se cancelan y sobran aciertos 
 
 ---
 
-## Dificultad 0 y Niveles de Complicación
+### Dificultad 0 y Niveles de Complicación
 
 Algunas acciones pueden no requerir esfuerzo significativo. En estos casos, la **Dificultad puede ser 0**. Esto significa que con **al menos un acierto**, la acción se resuelve normalmente. Tirar aún puede ser útil si hay posibilidad de obtener Ventajas o si la acción podría activar Complicaciones.
 
