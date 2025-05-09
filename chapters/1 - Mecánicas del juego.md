@@ -107,13 +107,13 @@ Cada dado que muestre **7 o más** es un **acierto**. Los **10** cuentan como **
 
 El número total de aciertos se compara con la **dificultad** establecida por el/la DJ. El resultado puede clasificarse de la siguiente forma:
 
-#### Fracaso
+#### Falla
 
 No se alcanza la dificultad. La acción no tiene éxito y no se activan Complicaciones.
 
 > *Tratás de forzar la cerradura con rapidez, pero no podés con el mecanismo. El candado resiste, por ahora.*
 
-#### Desastre
+#### Falla Crítica
 
 No se alcanza la dificultad **y** se activan todas las Complicaciones relacionadas.
 
@@ -131,7 +131,7 @@ Se alcanza la dificultad, pero no se cancelan todas las Complicaciones. La acci�
 
 > *Escapás por la escalera de emergencia... pero un testigo logra verte antes de desaparecer entre las sombras.*
 
-#### Éxito Radiante
+#### Éxito Excepcional
 
 La dificultad se supera, todas las Complicaciones se cancelan y sobran aciertos para activar Ventajas.
 
@@ -497,32 +497,24 @@ Recompensa *Resonancia* por aceptar *Intromisiones* o actuar según metas. Es un
 
 ## Glosario de Términos Básicos
 
-- **Acierto**: Resultado de un dado d10 que cumple el valor requerido (7-9 = 1 acierto, 10 = 2 aciertos).
+- **Acierto**: Resultado de un d10 que muestra **7 o más**. Un **10** cuenta como **2 aciertos**.
 - **Atributo**: Característica básica del personaje (*Fuerza*, *Destreza*, *Inteligencia*, *Carisma*) que define sus capacidades.
-- **Condición**: Estado narrativo positivo o negativo que afecta al personaje, otorgando modificadores o restricciones hasta resolverse.
-- **Condición Improvisada**: *Condición* creada por el DJ para eventos únicos, con modificadores temporales.
-- **Condición Persistente**: *Condición* de larga duración que requiere esfuerzo significativo para eliminarse (ejemplo: *Secuela*).
-- **Condición Positiva/Negativa**: Estado narrativo temporal que otorga ventajas o desventajas en una acción o escena.
-- **Dificultad**: Número de aciertos requeridos para superar una tarea o desafío.
-- **DJ**: Director de Juego. Persona que narra, arbitra y guía la historia.
-- **Downtime**: Modalidad de juego para descanso, recuperación o planificación a largo plazo.
-- **Éxito Excepcional**: Resultado que supera 1.5 veces la *Dificultad*, otorgando recompensas adicionales.
-- **Éxito Parcial**: Resultado que cumple al menos la mitad de la *Dificultad*, pero no la supera, con un costo.
-- **Éxito Regular**: Resultado que iguala o supera la *Dificultad*, logrando el objetivo sin complicaciones.
+- **Complicación**: Consecuencia narrativa negativa que puede ocurrir durante una acción. Tiene un **nivel** que indica cuántos aciertos se necesitan para evitarla.
+- **Condición**: Estado que afecta al personaje, resultado de una acción o situación narrativa. Puede ser positiva o negativa, temporal o persistente.
+- **Dificultad**: Número de aciertos requeridos para lograr una acción. Puede ser 0 si no hay oposición relevante, aunque aún podrían aplicarse Complicaciones.
+- **DJ (Director/a de Juego)**  
+Persona encargada de facilitar la partida, controlar el mundo y arbitrar reglas.
+- **Éxito Excepcional**: Resultado en el que se supera la dificultad, se cancelan todas las Complicaciones y se obtienen aciertos sobrantes para Ventajas.
 - **Esfuerzo**: Puntos de *Reserva* arriesgados para sumar aciertos adicionales en una tirada.
-- **Falla Crítica**: Fracaso total al usar *Esfuerzo* sin aciertos, con consecuencias graves.
-- **Falla Marginal**: Fracaso con aciertos menores a la mitad de la *Dificultad*, otorga *Resonancia* o *xp*.
-- **Falla Normal**: Fracaso sin aciertos, permite reintentos en tareas simples.
+- **Falla Crítica**: No se alcanza la dificultad **y** se activan todas las Complicaciones relacionadas.
+- **Falla**: No se alcanza la dificultad. La acción no tiene éxito y no se activan Complicaciones, permite reintentos en tareas simples.
 - **Herida Crítica**: Lesión grave que pone en peligro la vida, requiere atención urgente.
 - **Herida Seria**: Lesión importante que limita hasta ser tratada.
 - **Herida Superficial**: Lesión menor que se resuelve con descanso.
 - **Habilidad**: Conocimiento o destreza específica del personaje (ejemplo: *Atletismo*, *Persuasión*).
 - **Intromisión del DJ**: Evento narrativo inesperado para complicar la historia.
-- **Modalidad**: Ritmo narrativo del juego (*Acción y Aventura*, *Drama e Investigación*, *Downtime*).
 - **Puñado**: Combinación de *Atributo* + *Habilidad* para resolver una tarea.
 - **Reserva**: Puntos asociados a cada *Atributo*, usados para *Esfuerzo* y recuperados con descanso.
 - **Resonancia**: Recurso narrativo para influir en la historia, mejorar tiradas o rechazar *Intromisiones*.
-- **Secuela**: Marca permanente de una herida o trauma, afecta a largo plazo.
 - **Tarea Compleja**: Desafío que requiere múltiples tiradas y aciertos acumulados.
 - **Trabajo en Equipo**: Mecánica donde un personaje asiste a otro, sumando aciertos.
-- **Turno**: Unidad de tiempo abstracta en *Acción y Aventura*, representa segundos de acción.
