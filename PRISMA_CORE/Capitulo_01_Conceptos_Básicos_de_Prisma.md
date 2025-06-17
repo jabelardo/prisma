@@ -77,9 +77,9 @@ Los aciertos que excedan la Dificultad de la acción pueden usarse para comprar 
 
 Resultados de las Tiradas:
 
-Fracaso: El jugador no obtiene suficientes aciertos para igualar o superar la Dificultad establecida. La acción intentada no tiene el efecto deseado. Si no se obtiene ningún acierto en la tirada de dados (antes de aplicar Filo), la acción se considera un fracaso automático y el Filo no se aplica. Las Complicaciones asociadas a la acción no ocurren, a menos que el jugador elija convertir el fracaso en un Desastre. El fracaso en una acción no implica necesariamente que el personaje no haya actuado, sino que su intento no tuvo éxito de la manera esperada (pudo haber fallado su objetivo, dicho algo incorrecto, o sido avistado). El resultado de un fracaso siempre debe hacer avanzar la historia. Puede incluir que el personaje tenga éxito parcial en su intento pero creando un problema mayor al hacerlo. Un fracaso siempre debe ser interesante e introducir un nuevo elemento narrativo o cambiar la dirección de la historia. En un fracaso, el jugador gana un punto de Resonancia, que se añade a la reserva común para que cualquier jugador la use en el futuro.
+Fracaso: El jugador no obtiene suficientes aciertos para igualar o superar la Dificultad establecida. La acción intentada no tiene el efecto deseado. Si no se obtiene ningún acierto en la tirada de dados (antes de aplicar Filo), la acción se considera un fracaso automático y el Filo no se aplica. Las Complicaciones asociadas a la acción no ocurren, a menos que el jugador elija convertir el fracaso en un Desastre. El fracaso en una acción no implica necesariamente que el personaje no haya actuado, sino que su intento no tuvo éxito de la manera esperada (pudo haber fallado su objetivo, dicho algo incorrecto, o sido avistado). El resultado de un fracaso siempre debe hacer avanzar la historia. Puede incluir que el personaje tenga éxito parcial en su intento pero creando un problema mayor al hacerlo. Un fracaso siempre debe ser interesante e introducir un nuevo elemento narrativo o cambiar la dirección de la historia. En un fracaso, el jugador gana un punto de Resonancia, que se añade a la reserva para que cualquier jugador la use en el futuro. Si hay dados mostrando 1 en un fracaso el DJ gana un punto de Disonancia.
 
-Desastre: Si la acción conllevaba una Complicación, y el jugador fracasa en la tirada (no obtiene suficientes aciertos para superar la Dificultad), puede elegir convertir ese fracaso en un desastre. Al hacerlo, permite que la Complicación proceda y sus consecuencias se manifiesten, a pesar de que la acción principal no tuvo éxito. En un desastre, el jugador gana dos puntos de Resonancia para la reserva común.
+Desastre: Si la acción conllevaba una Complicación, y el jugador fracasa en la tirada (no obtiene suficientes aciertos para superar la Dificultad), puede elegir convertir ese fracaso en un desastre. Al hacerlo, permite que la Complicación proceda y sus consecuencias se manifiesten, a pesar de que la acción principal no tuvo éxito. En un desastre, el jugador gana dos puntos de Resonancia para la reserva común. En caso de Desastre el DJ no gana puntos de Disonancia.
 
 Éxito: El jugador acumula un número de aciertos igual o mayor que la Dificultad. La acción se considera lograda tal como se describió. El jugador puede usar los aciertos sobrantes (aquellos que exceden la Dificultad) para comprar Tretas.
 
@@ -216,21 +216,30 @@ El Director de Juego puede, en momentos narrativamente apropiados, introducir un
 Cuando el DJ propone una Intromisión, el jugador cuyo personaje es el principal afectado tiene la opción de rechazarla gastando 1 punto de Resonancia. Si se rechaza, la Intromisión no ocurre. Si la Intromisión ocurre (ya sea porque no se rechazó o porque el jugador no tenía Resonancia para hacerlo), el jugador afectado gana 1 PE Personal y todos los jugadores ganan 1 PE grupal.
 
 Glosario de Términos
-Acierto: Unidad de éxito. Cada acierto puede usarse para cumplir con la dificultad de una acción, neutralizar Complicaciones y comprar Tretas.
-Acierto natural: Resultado de 5 o 6 en un dado lanzado.
-Complicación: Efecto narrativo negativo introducido por el DJ durante una acción. El jugador puede eliminarla gastando aciertos después de cumplir la dificultad.
-Dificultad: Número mínimo de aciertos necesarios para que una acción tenga éxito.
-Disonancia: Recurso del DJ. Se usa para introducir o aumentar la tención narrativa.
-DJ (Director de Juego): Persona que arbitra la partida, representa al mundo.
-Estrés: Recurso que representa el desgaste mental y emocional del personaje. Se gana al Forzar tiradas y por cosas que afectan mentalmente al personaje.
-Filo: Aciertos adicionales de diversas fuentes que se aplican si se ha obtenido al menos un acierto natural en una tirada.
-Forzar el Puñado: Relanzar dados con resultado 2–4 para intentar obtener más aciertos, a cambio de Estrés y Disonancia.
-Intromisión del DJ: Intervención narrativa inesperada del DJ sobre un PJ y que puede ser rechazada a cambio de Resonancia. Es fuente de PE.
-Investigación: Acción dirigida a descubrir información relevante en la ficción. Puede facilitarse mediante gasto de Resonancia.
-PE (Puntos de Experiencia): Recurso que los jugadores ganan por enfrentar desafíos, aceptar Intromisiones u otras condiciones narrativas. Sirve para mejorar al personaje.
-PJ (Personaje Jugador): Protagonista de la historia, controlado por una persona jugadora.
-PNJ (Personaje No Jugador): Personaje interpretado por el DJ.
-Puñado de Dados: Dados que se lanzan para resolver una acción. 
-Pista: Información significativa obtenida durante una investigación. Puede desbloquearse con tiradas o mediante gasto de Resonancia.
-Resonancia: Recurso compartido entre todos los jugadores. Se gasta para añadir aciertos, obtener pistas u otros efectos narrativos.
-Tretas: Acciones extraordinarias que un personaje puede ejecutar al gastar múltiples aciertos. 
+- Acierto: Unidad de éxito. Cada acierto puede usarse para cumplir con la dificultad de una acción, neutralizar Complicaciones y comprar Tretas.
+- Acierto natural: Resultado de 5 o 6 en un dado lanzado.
+- Aspiración: 
+- Camino:
+- Complicación: Efecto narrativo negativo introducido por el DJ durante una acción. El jugador puede eliminarla gastando aciertos después de cumplir la dificultad.
+- Atributo:
+- Condición:
+- Dificultad: Número mínimo de aciertos necesarios para que una acción tenga éxito.
+- Disonancia: Recurso del DJ. Se usa para introducir o aumentar la tención narrativa.
+- DJ (Director de Juego): Persona que arbitra la partida, representa al mundo.
+- Estrés: Recurso que representa el desgaste mental y emocional del personaje. Se gana al Forzar tiradas y por cosas que afectan mentalmente al personaje.
+- Fatiga:
+- Filo: Aciertos adicionales de diversas fuentes que se aplican si se ha obtenido al menos un acierto natural en una tirada.
+- Forzar el Puñado: Relanzar dados con resultado 2–4 para intentar obtener más aciertos, a cambio de Estrés y Disonancia.
+- Habilidad:
+- Intromisión del DJ: Intervención narrativa inesperada del DJ sobre un PJ y que puede ser rechazada a cambio de Resonancia. Es fuente de PE.
+- Investigación: Acción dirigida a descubrir información relevante en la ficción. Puede facilitarse mediante gasto de Resonancia.
+- PE (Puntos de Experiencia): Recurso que los jugadores ganan por enfrentar desafíos, aceptar Intromisiones u otras condiciones narrativas. Sirve para mejorar al personaje.
+- PJ (Personaje Jugador): Protagonista de la historia, controlado por una persona jugadora.
+- PNJ (Personaje No Jugador): Personaje interpretado por el DJ.
+- Puñado de Dados: Dados que se lanzan para resolver una acción. 
+- Pista: Información significativa obtenida durante una investigación. Puede desbloquearse con tiradas o mediante gasto de Resonancia.
+- Resonancia: Recurso compartido entre todos los jugadores. Se gasta para añadir aciertos, obtener pistas u otros efectos narrativos.
+- Ronda:
+- Treta: Acciones extraordinarias que un personaje puede ejecutar al gastar múltiples aciertos.
+- Turno:
+- Ventaja:
