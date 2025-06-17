@@ -16,7 +16,7 @@ Los Jugadores
 Cada jugador, a excepción de uno, asume el control de un Personaje Jugador (PJ). Tú eres quien decide lo que tu PJ piensa y siente, lo que dice y lo que hace. Tu trabajo es sumergirte completamente en tu Personaje Jugador. Imagina: ¿cómo reaccionarías si estuvieras en su lugar? ¿Qué harías?  Aunque puedan ser investigadores en un mundo lleno de misterios oscuros, en el fondo siguen siendo personas con sus propios sentimientos y sueños. Los personajes jugadores son siempre los protagonistas de la historia. El juego se centra en ellos: en tus decisiones y en tus aventuras.
 
 El Director de Juego (DJ)
-El jugador final es el Director de Juego (DJ). El DJ describe el mundo de juego para los jugadores, interpreta a las personas que los personajes conocen y controla los desafíos que enfrentan. La partida es una conversación fluida y constante entre los jugadores y el DJ. Esta interacción continúa hasta que surge una situación crítica donde el resultado es incierto. En ese momento, es el turno de sacar los dados.
+Uno de los participantes asume el rol del Director de Juego (DJ). El DJ describe el mundo de juego para los jugadores, interpreta a las personas que los personajes conocen y controla los desafíos que enfrentan. La partida es una conversación fluida y constante entre los jugadores y el DJ. Esta interacción continúa hasta que surge una situación crítica donde el resultado es incierto. En ese momento, es el turno de sacar los dados.
 
 Es la tarea del DJ poner obstáculos en el camino de los PJ y desafiarlos, obligándolos a demostrar de qué están hechos realmente. Sin embargo, no es responsabilidad del DJ decidir todo lo que sucede en el juego, y sobre todo, no cómo se supone que debe terminar la historia de los jugadores. Eso se decide durante el juego mismo. Es por eso que se juega: para descubrir cómo termina la historia.
 
@@ -41,7 +41,7 @@ Los jugadores utilizan el total de aciertos acumulados contra una Dificultad est
 
 Puñado de Dados: Es el grupo de dados que un jugador lanza para resolver un chequeo. Se calcula a partir de la suma de los puntos de características relevantes del personaje para determinar su competencia en dicho chequeo y generalmente es la suma de una Habilidad más un Atributo, aunque existen variaciones dadas por reglas específicas.
 
-Filo: Es algún factor dodo por las capacidades del personaje, las circunstancias o del equipo que hace que una tarea sea más fácil. Si un jugador obtiene al menos un acierto, puede aprovechar cualquier Filo relevante para la tarea en cuestión. Cada punto de Filo añade un acierto al número total. Si se realizan acciones divididas, el jugador reparte sus Filos entre cada tarea como decida. Si un Filo no se aplica específicamente a lo que el personaje está haciendo, el jugador no puede usarlo. Más adelante se explica Filo con mas detalle.
+Filo: Es algún factor dado por las capacidades del personaje, las circunstancias o del equipo que hace que una tarea sea más fácil. Si un jugador obtiene al menos un acierto, puede aprovechar cualquier Filo relevante para la tarea en cuestión. Cada punto de Filo añade un acierto al número total. Si se realizan acciones divididas, el jugador reparte sus Filos entre cada tarea como decida. Si un Filo no se aplica específicamente a lo que el personaje está haciendo, el jugador no puede usarlo. Más adelante se explica Filo con mas detalle.
 
 Desglose de la tirada en Prisma:
 1. Formar el Puñado de Dados: Es el número inicial de d6 a lanzar. Pueden añadirse o restarse dados por circunstancias particulares.
@@ -215,3 +215,22 @@ Rechazar una Intromisión del DJ (Coste 1 punto):
 El Director de Juego puede, en momentos narrativamente apropiados, introducir una Intromisión del DJ. Esto es una complicación inesperada, un giro de la trama o un desafío súbito que afecta a un PJ. (Las Intromisiones del DJ se explican con más detalle en el capítulo dedicado al Director de Juego).
 Cuando el DJ propone una Intromisión, el jugador cuyo personaje es el principal afectado tiene la opción de rechazarla gastando 1 punto de Resonancia. Si se rechaza, la Intromisión no ocurre. Si la Intromisión ocurre (ya sea porque no se rechazó o porque el jugador no tenía Resonancia para hacerlo), el jugador afectado gana 1 PE Personal y todos los jugadores ganan 1 PE grupal.
 
+Glosario de Términos
+Acierto: Unidad de éxito. Cada acierto puede usarse para cumplir con la dificultad de una acción, neutralizar Complicaciones y comprar Tretas.
+Acierto natural: Resultado de 5 o 6 en un dado lanzado.
+Complicación: Efecto narrativo negativo introducido por el DJ durante una acción. El jugador puede eliminarla gastando aciertos después de cumplir la dificultad.
+Dificultad: Número mínimo de aciertos necesarios para que una acción tenga éxito.
+Disonancia: Recurso del DJ. Se usa para introducir o aumentar la tención narrativa.
+DJ (Director de Juego): Persona que arbitra la partida, representa al mundo.
+Estrés: Recurso que representa el desgaste mental y emocional del personaje. Se gana al Forzar tiradas y por cosas que afectan mentalmente al personaje.
+Filo: Aciertos adicionales de diversas fuentes que se aplican si se ha obtenido al menos un acierto natural en una tirada.
+Forzar el Puñado: Relanzar dados con resultado 2–4 para intentar obtener más aciertos, a cambio de Estrés y Disonancia.
+Intromisión del DJ: Intervención narrativa inesperada del DJ sobre un PJ y que puede ser rechazada a cambio de Resonancia. Es fuente de PE.
+Investigación: Acción dirigida a descubrir información relevante en la ficción. Puede facilitarse mediante gasto de Resonancia.
+PE (Puntos de Experiencia): Recurso que los jugadores ganan por enfrentar desafíos, aceptar Intromisiones u otras condiciones narrativas. Sirve para mejorar al personaje.
+PJ (Personaje Jugador): Protagonista de la historia, controlado por una persona jugadora.
+PNJ (Personaje No Jugador): Personaje interpretado por el DJ.
+Puñado de Dados: Dados que se lanzan para resolver una acción. 
+Pista: Información significativa obtenida durante una investigación. Puede desbloquearse con tiradas o mediante gasto de Resonancia.
+Resonancia: Recurso compartido entre todos los jugadores. Se gasta para añadir aciertos, obtener pistas u otros efectos narrativos.
+Tretas: Acciones extraordinarias que un personaje puede ejecutar al gastar múltiples aciertos. 
