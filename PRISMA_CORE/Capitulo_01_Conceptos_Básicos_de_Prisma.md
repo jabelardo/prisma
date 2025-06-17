@@ -1,3 +1,22 @@
+¿Qué es Prisma?
+Prisma es el sistema de juego pensado para una ambientación de magia contemporánea y horror oculto en el que los personajes son relativamente competentes en lo que hacen. En este sistema, los jugadores exploran un mundo donde la realidad es frágil y las decisiones tienen consecuencias profundas. Prisma se centra en equilibrar las habilidades de los personajes, el azar de los dados, las elecciones de los jugadores y da importancia a la colaboración y la participación activa de los jugadores en la creación de la historia.
+
+Prisma está centrado en la narrativa, y sus las mecánicas están diseñadas para enriquecer las historias sin complicaciones innecesarias. Las reglas actúan como herramientas que permiten libertad e improvisación tanto para jugadores como para el Director de Juego (DJ). Se adapta a diversos estilos de juego, desde intrigas políticas hasta refriegas callejeras y luchas épicas de invasores de otra dimensión, permitiendo campañas extensas o partidas rápidas. Los jugadores tienen mucho control sobre el impacto de sus personajes en el mundo del juego, mientras que el DJ actúa como narrador y facilitador, utilizando herramientas del juego para añadir giros inesperados y aumentar la tensión dramática
+
+El sistema busca equilibrar el detalle mecánico y fluidez narrativa con reglas intuitivas que ofrecen profundidad sin abrumar, utilizando dados de seis caras para mantener la accesibilidad. Aunque no es ultraligero, mas bien es de complejidad media, el sistema permite una familiarización gradual.
+
+En el universo de los juegos de rol, Prisma se presenta como una puerta de entrada a mundos infinitos donde la imaginación y la narrativa son las protagonistas. Imagina sentarte alrededor de una mesa con amigos, cada uno asumiendo el papel de un personaje único, lleno de sueños, temores, habilidades y desafíos. Como jugador, no solo decides las acciones de tu personaje, sino que también contribuyes a tejer una historia colectiva, guiada por un Director de Juego que actúa como narrador y facilitador. Prisma, con sus reglas intuitivas y flexibles, está diseñado para potenciar esta experiencia, eliminando barreras y fomentando la creatividad. Aquí, los dados y las mecánicas no son obstáculos, sino herramientas que ayudan a dar vida a secretos misteriosos, intrigas emocionantes y momentos inolvidables, todo ello en un entorno donde la colaboración y la improvisación son clave. En esencia, Prisma es una invitación a explorar, crear y vivir historias que resonarán mucho después de que la sesión de juego haya terminado.
+
+Roles en la Mesa de Juego
+
+Los Jugadores
+Cada jugador, excepto uno, controla un personaje jugador (PJ). Tú decides lo que tu PJ piensa y siente, lo que dice y hace, pero no lo que les sucede. Tu trabajo como jugador es sumergirte en tu PJ. Pueden ser un investigador en un mundo lleno de misterios oscuros, pero en el fondo siguen siendo una persona con sentimientos y sueños, al igual que tú. Intenta imaginar: ¿cómo reaccionarías si estuvieras en su lugar? ¿Qué harías? Los personajes jugadores siempre son los protagonistas de la historia. El juego trata sobre ti. Tus decisiones, tus aventuras.
+
+El Director de Juego (DJ)
+El jugador final es el Director de Juego, el DJ. Ellos describen el mundo del juego para ti, interpretan a las personas que conoces y controlan los desafíos que enfrentas. El juego es una conversación entre los jugadores y el DJ, de ida y vuelta, hasta que surge una situación crítica donde el resultado es incierto. Entonces es el momento de sacar los dados.
+
+Es trabajo del DJ poner obstáculos en tu camino y desafiar a tus PJ, obligándolos a mostrar de qué están hechos realmente. Pero no es responsabilidad del DJ decidir todo lo que sucede en el juego, y sobre todo, no cómo se supone que debe terminar tu historia. Eso se decide en el juego. Por eso estás jugando: para descubrir cómo termina tu historia.
+
 Cuándo y por qué tirar dados
 En Prisma, las tiradas de dados son el corazón del juego. Se utilizan para resolver situaciones en las que el resultado es incierto y las habilidades de tu personaje están siendo puestas a prueba. No todo requiere una tirada; si la acción es sencilla, tu personaje está bien cualificado y no hay riesgo ni oposición, el Director de Juego (DJ) simplemente declarará que lo logras. Por otro lado, si la acción es imposible, el DJ le pedirá al jugador que proponga una alternativa y podrá ofrecer sugerencias para ajustarla a lo que sea viable dentro de las circunstancias. Si el jugador no propone nada posible, no se realiza una tirada, pues el resultado ya está determinado.
 
@@ -192,3 +211,4 @@ Al realizar una acción de investigación, un jugador puede gastar 1 punto de Re
 Rechazar una Intromisión del DJ (Coste 1 punto):
 El Director de Juego puede, en momentos narrativamente apropiados, introducir una Intromisión del DJ. Esto es una complicación inesperada, un giro de la trama o un desafío súbito que afecta a un PJ. (Las Intromisiones del DJ se explican con más detalle en el capítulo dedicado al Director de Juego).
 Cuando el DJ propone una Intromisión, el jugador cuyo personaje es el principal afectado tiene la opción de rechazarla gastando 1 punto de Resonancia. Si se rechaza, la Intromisión no ocurre. Si la Intromisión ocurre (ya sea porque no se rechazó o porque el jugador no tenía Resonancia para hacerlo), el jugador afectado gana 1 PE Personal y todos los jugadores ganan 1 PE grupal.
+
