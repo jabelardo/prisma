@@ -227,7 +227,7 @@ Glosario de Términos
 - Disonancia: Recurso del DJ. Se usa para introducir o aumentar la tención narrativa.
 - DJ (Director de Juego): Persona que arbitra la partida, representa al mundo.
 - Estrés: Recurso que representa el desgaste mental y emocional del personaje. Se gana al Forzar tiradas y por cosas que afectan mentalmente al personaje.
-- Fatiga:
+- Fatiga: falta por definir ...
 - Filo: Aciertos adicionales de diversas fuentes que se aplican si se ha obtenido al menos un acierto natural en una tirada.
 - Forzar el Puñado: Relanzar dados con resultado 2–4 para intentar obtener más aciertos, a cambio de Estrés y Disonancia.
 - Habilidad:
